@@ -1,6 +1,6 @@
 ---
-title: "Puurfect Prints"
-date: 2019-01-20
+title: Project 1
+date: 2021-04-25
 ---
 
 I can haz and sometimes switches in french and say "miaou" just because well why not. Try to hold own back foot to clean it but foot reflexively kicks you in face, go into a rage and bite own foot, hard scratch the furniture but attack like a vicious monster. 
