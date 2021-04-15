@@ -1,12 +1,14 @@
-title: Awesomeness
-author: P
-theme: minima
-email: p@domain.com
+title: Pia Smith Portfolio
+author: Pia Smith
+email: theequationofacircle@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Best blog ever
 
 # social links
-twitter_username: p
-github_username:  p
+twitter_username: pia_smith
+github_username:  peayah
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+# build
+theme: minima
