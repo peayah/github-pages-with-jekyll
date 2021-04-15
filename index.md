@@ -1,3 +1,6 @@
+---
+list_title: Projects
+---
 # Welcome to my portfolio
 
 Welcome message
