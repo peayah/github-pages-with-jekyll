@@ -1,6 +1,3 @@
-
-# Welcome to my portfolio
-
 Welcome message
 
 ## Skills
