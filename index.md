@@ -14,11 +14,11 @@ Web Coding HTML, CSS, JavaScript
 ## Projects
 Here is a sample, more at [my GitHub repository](https://github.com/peayah)
 
-#### Project 1
+### Project 1
 in the process of being uploaded
 
-#### Project 2
+### Project 2
 in the process of being uploaded
 
-#### Project 3
+### Project 3
 in the process of being uploaded
