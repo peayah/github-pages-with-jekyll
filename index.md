@@ -15,10 +15,14 @@ Web Coding HTML, CSS, JavaScript
 Here is a sample, more at [my GitHub repository](https://github.com/peayah)
 
 ### Project 1
-in the process of being uploaded
+Created a function that solve a subset sum problem for any list of integers and a predetermined total. Am able to use to find the optimal combination of integers from a given list to either get close to or hit a total. Could be used to select the optimal combination of packages of different weights to hit a max weight or find a combination of songs that to fill a predetermined runtime. 
+Class Project. Link to code: Upon request
 
 ### Project 2
-in the process of being uploaded
+Created a function that travels through a maze built from lists to add edges that when fed into Dijkstra will find shortest path. And also list the coordinates the maze traveller has to pass through to get from start to finish. Class Project. 
+
+Link to code: Upon request
 
 ### Project 3
-in the process of being uploaded
+Description: Modified code and added function in lazy-delete class to traverse a tree and be able to differentiate between not deleted lazy-deleted and hard deleted nodes. 
+Class Project. Link to code: Upon request
