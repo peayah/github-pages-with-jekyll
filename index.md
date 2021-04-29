@@ -17,8 +17,9 @@ Here is a sample, more at [my GitHub repository](https://github.com/peayah)
 ### Project 1
 Created a function that solve a subset sum problem for any list of integers and a predetermined total. Am able to use to find the optimal combination of integers from a given list to either get close to or hit a total. Could be used to select the optimal combination of packages of different weights to hit a max weight or find a combination of songs that to fill a predetermined runtime. Class Project. Code upon request
 
-```Sublist ----------------------------- 
- Sum: 147
+```
+Sublist ----------------------------- 
+Sum: 147
  item[0] = 20  item[1] = 12  item[2] = 22  
  item[3] = 15  item[4] = 25  item[6] = 29  
  item[8] = 11  item[9] = 13
@@ -48,7 +49,8 @@ A function that travels through a maze built from lists to add edges that when f
 
 The solution as a list.
 
-```[(7, 0), (8, 0), (9, 0), (9, 1), (9, 2), (8, 2), (8, 1), (7, 1), (6, 1), 
+```
+[(7, 0), (8, 0), (9, 0), (9, 1), (9, 2), (8, 2), (8, 1), (7, 1), (6, 1), 
 (6, 0), (5, 0), (4, 0), (3, 0), (2, 0), (1, 0), (0, 0), (0, 1), (1, 1), 
 (2, 1), (3, 1), (4, 1), (4, 2), (3, 2), (3, 3), (3, 4), (2, 4), (2, 3), 
 (2, 2), (1, 2), (1, 3), (0, 3), (0, 4), (1, 4), (1, 5), (2, 5), (3, 5), 
@@ -71,7 +73,8 @@ The solution as a list.
 
 The solution as a list.
 
-```[(4, 0), (5, 0), (5, 1), (5, 2), (5, 3), (6, 3), (6, 2), (6, 1), (6, 0), 
+```
+[(4, 0), (5, 0), (5, 1), (5, 2), (5, 3), (6, 3), (6, 2), (6, 1), (6, 0), 
 (7, 0), (7, 1), (7, 2), (7, 3), (7, 4), (7, 5), (6, 5), (5, 5), (5, 4), 
 (4, 4), (4, 3), (3, 3), (3, 2), (3, 1), (3, 0), (2, 0), (1, 0), (1, 1), 
 (0, 1), (0, 2), (0, 3), (1, 3), (2, 3), (2, 4), (2, 5), (3, 5), (4, 5), 
@@ -87,7 +90,8 @@ The solution as a list.
 ### Project 3
 Description: Code that lazy-delete in Binary Search Trees. Traverses tree and is able to differentiate between not deleted, lazy-deleted and hard deleted nodes. Class Project. Code upon request.
 
-```Populate
+```
+Populate
 Tree size:  6 
 Hard size:  6
  50
