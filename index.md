@@ -23,9 +23,8 @@ Class Project. Link to code: Upon request
   item[0] = 20  item[1] = 12  item[2] = 22  
   item[3] = 15  item[4] = 25  item[6] = 29  
   item[8] = 11  item[9] = 13
-  ```
   
-  ```Sublist ----------------------------- 
+  Sublist ----------------------------- 
   Sum: 3513
   item[0] = Carrie Underwood -> Cowboy Casanova: 3:56  
   item[1] = Carrie Underwood -> Quitter: 3:40  
@@ -92,8 +91,7 @@ Class Project. Link to code: Upon request
 
 Lazy Deletion in Binary Search Trees
 
-```
-Populate:
+```Populate:
 Tree size:  6 
 Hard size:  6
  50
