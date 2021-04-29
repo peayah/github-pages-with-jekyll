@@ -18,7 +18,30 @@ Here is a sample, more at [my GitHub repository](https://github.com/peayah)
 Created a function that solve a subset sum problem for any list of integers and a predetermined total. Am able to use to find the optimal combination of integers from a given list to either get close to or hit a total. Could be used to select the optimal combination of packages of different weights to hit a max weight or find a combination of songs that to fill a predetermined runtime. 
 Class Project. Link to code: Upon request
 
-
+```Sublist ----------------------------- 
+  Sum: 147
+  item[0] = 20  item[1] = 12  item[2] = 22  
+  item[3] = 15  item[4] = 25  item[6] = 29  
+  item[8] = 11  item[9] = 13
+  ```
+  
+  ```Sublist ----------------------------- 
+  Sum: 3513
+  item[0] = Carrie Underwood -> Cowboy Casanova: 3:56  
+  item[1] = Carrie Underwood -> Quitter: 3:40  
+  item[2] = Rihanna -> Russian Roulette: 3:48  
+  item[3] = Foo Fighters -> All My Life: 4:23  
+  item[4] = Foo Fighters -> Monkey Wrench: 3:50  
+  item[5] = Eric Clapton -> Pretending: 4:43  
+  item[6] = Eric Clapton -> Bad Love: 5:08  
+  item[7] = Howlin' Wolf -> Everybody's In The Mood: 2:58  
+  item[9] = Reverend Gary Davis -> Samson and Delilah: 3:36  
+  item[10] = Reverend Gary Davis -> Twelve Sticks: 3:14  
+  item[11] = Roy Buchanan -> Hot Cha: 3:28  
+  item[12] = Roy Buchanan -> Green Onions: 7:23  
+  item[13] = Janiva Magness -> I'm Just a Prisoner: 3:50  
+  item[14] = Janiva Magness -> You Were Never Mine: 4:36
+```
 
 ### Project 2
 Created a function that travels through a maze built from lists to add edges that when fed into Dijkstra will find shortest path. And also list the coordinates the maze traveller has to pass through to get from start to finish. Class Project. Link to code: Upon request
