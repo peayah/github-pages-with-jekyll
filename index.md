@@ -23,10 +23,10 @@ Class Project. Link to code: Upon request
 ### Project 2
 Created a function that travels through a maze built from lists to add edges that when fed into Dijkstra will find shortest path. And also list the coordinates the maze traveller has to pass through to get from start to finish. Class Project. Link to code: Upon request
 
-| Maze        | Path        |
-| ----------- | ----------- |
+| Maze                                                  | Path        |
+| ----------------------------------------------------- | ----------- |
 | ![Sample maze 15 x 15](/assets/images/15x15.png)      | ```[(7, 0), (8, 0), (9, 0), (9, 1), (9, 2), (8, 2), (8, 1), (7, 1), (6, 1), 
-(6, 0), (5, 0), (4, 0), (3, 0), (2, 0), (1, 0), (0, 0), (0, 1), (1, 1), 
+|                                                        |(6, 0), (5, 0), (4, 0), (3, 0), (2, 0), (1, 0), (0, 0), (0, 1), (1, 1), |
 (2, 1), (3, 1), (4, 1), (4, 2), (3, 2), (3, 3), (3, 4), (2, 4), (2, 3), 
 (2, 2), (1, 2), (1, 3), (0, 3), (0, 4), (1, 4), (1, 5), (2, 5), (3, 5), 
 (4, 5), (4, 4), (4, 3), (5, 3), (5, 2), (6, 2), (7, 2), (7, 3), (6, 3), 
