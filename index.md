@@ -15,7 +15,6 @@ Constantly Learning — Consistently Problem Solving — Constructively Coding
 Here is are a few code samples. More at [my GitHub repository](https://github.com/peayah).
 
 ### Subset Sum
-
 **Language** - Python.  
 **My contribution** - Solo (Class Project).
 
@@ -23,7 +22,6 @@ Created a function that solve a subset sum problem for any list of integers and 
 
 
 ### Maze Solution Finder
-
 **Language** - Python.  
 **My contribution** - Solo (Class Project).
 
@@ -31,7 +29,6 @@ A function that travels through a maze built from lists to add edges that when f
 
 
 ### Binary Search Tree Deletion
-
 **Language** - Python.  
 **My contribution** - Solo (Class Project).
 
