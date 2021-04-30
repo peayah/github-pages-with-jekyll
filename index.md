@@ -16,21 +16,21 @@ Here is are a few code samples. More at [my GitHub repository](https://github.co
 
 ### Subset Sum
 
-*Language* - Python
+*Language* - Python. 
 *My contribution* - Solo (Class Project)
 
 Created a function that solve a subset sum problem for any list of integers and a predetermined total. Am able to use to find the optimal combination of integers from a given list to either get close to or hit a total. Could be used to select the optimal combination of packages of different weights to hit a max weight or find a combination of songs that to fill a predetermined runtime.
 
 ### Maze Solution Finder
 
-*Language* - Python
+*Language* - Python. 
 *My contribution* - Solo (Class Project)
 
 A function that travels through a maze built from lists to add edges that when fed into Dijkstra will find shortest path. And also print a list the coordinates the maze traveller has to pass through to get from start to finish. Class Project. Code upon request.
 
 ### Binary Search Tree Deletion
 
-*Language* - Python
+*Language* - Python. 
 *My contribution* - Solo (Class Project)
 
 Description: Code that lazy-delete in Binary Search Trees. Traverses tree and is able to differentiate between not deleted, lazy-deleted and hard deleted nodes. 
