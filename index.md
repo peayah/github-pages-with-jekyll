@@ -23,14 +23,14 @@ Created a function that solve a subset sum problem for any list of integers and 
 
 ### Maze Solution Finder
 
-*Language* - Python. 
+*Language* - Python.  
 *My contribution* - Solo (Class Project)
 
 A function that travels through a maze built from lists to add edges that when fed into Dijkstra will find shortest path. And also print a list the coordinates the maze traveller has to pass through to get from start to finish. Class Project. Code upon request.
 
 ### Binary Search Tree Deletion
 
-*Language* - Python. 
+*Language* - Python.  
 *My contribution* - Solo (Class Project)
 
 Description: Code that lazy-delete in Binary Search Trees. Traverses tree and is able to differentiate between not deleted, lazy-deleted and hard deleted nodes. 
