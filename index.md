@@ -12,7 +12,7 @@ Data Manipulation and Visualization: Tableau, Excel
 Web Coding: HTML, CSS, JavaScript
 
 ## Projects
-Here is a sample, more at [my GitHub repository](https://github.com/peayah)
+Here is are a few code samples. More at [my GitHub repository](https://github.com/peayah)
 
 ### Subset Sum
 
