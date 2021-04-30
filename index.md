@@ -32,4 +32,4 @@ A function that travels through a maze built from lists to add edges that when f
 **Language** - Python.  
 **My contribution** - Solo (Class Project).
 
-Description: Code that lazy-delete in Binary Search Trees. Traverses tree and is able to differentiate between not deleted, lazy-deleted and hard deleted nodes. 
+Code that lazy-deletes and hard deletes nodes in Binary Search Tree. Traverses tree and when searching for particular node, is able to differentiate between not deleted, lazy-deleted and hard deleted nodes. 
