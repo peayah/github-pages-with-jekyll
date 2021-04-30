@@ -9,7 +9,7 @@ Constantly Learning — Consistently Problem Solving — Constructively Coding
 ## Skills
 **Database Coding**: Python, R, SQL.  
 **Data Manipulation and Visualization**: Tableau, Excel.  
-**Web Coding**: HTML, CSS, JavaScript.  
+**Web Coding**: HTML, CSS, JavaScript, JAM.  
 
 ## Projects
 Here is are a few code samples. More at [my GitHub repository](https://github.com/peayah).
