@@ -12,5 +12,6 @@ layout: page
   <p>{{ observation.content | markdownify }}</p>
   <br/>
   <hr>
+  <br/>
   
 {% endfor %}
