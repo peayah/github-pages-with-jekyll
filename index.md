@@ -12,10 +12,11 @@ Constantly Learning — Consistently Problem Solving — Constructively Coding
 **Web Coding**: HTML, CSS, JavaScript, JAM.  
 
 ## Education
-2022 - BA in Computer Science - Foothill College, CA (August)
-2021 - Certificate of Achievement in Advance Software Development - Foothill College, CA (June)
-2021 - Certificate of Achievement in Data Analytics - Foothill College, CA (July)
-
+- 2022 - BA in Computer Science - Foothill College, CA (August)
+- 2021 - Certificate of Achievement in Advance Software Development - Foothill College, CA (June)
+- 2021 - Certificate of Achievement in Data Analytics - Foothill College, CA (July)
+- BA in International Business Communication - Niels Brock, DK
+- Certificate in Marketing - Niels Brock, DK
 
 ## Projects
 Here is are a few code samples. More at [my GitHub repository](https://github.com/peayah).
