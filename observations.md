@@ -8,4 +8,5 @@ layout: observations
   <h2>{{ observation.title }}</h2>
   <p><i>{{observation.date}}</i></p>
   <p>{{ observation.content | markdownify }}</p>
+  <hl>
 {% endfor %}
