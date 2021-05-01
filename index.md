@@ -13,7 +13,7 @@ Constantly Learning — Consistently Problem Solving — Constructively Coding
 
 ## Education
 2022 - BA in Computer Science - Foothill College, CA (August).  
-2021 - Certificate of Achievement in Advance Software Development - Foothill College, CA (June).  
+2021 - Certificate of Achievement in Advanced Software Development - Foothill College, CA (June).  
 2021 - Certificate of Achievement in Data Analytics - Foothill College, CA (July).  
 
 BA in International Business Communication - Niels Brock, DK.  
