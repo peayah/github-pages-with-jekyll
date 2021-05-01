@@ -10,7 +10,9 @@ layout: default
   {{ content }}
 
 
-  {% assign posts = site.posts %}
+  
+  {% assign posts = paginator.posts %}
+  
 
 
   {%- if posts.size > 0 -%}
