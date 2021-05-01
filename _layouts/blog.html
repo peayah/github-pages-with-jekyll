@@ -11,7 +11,11 @@ layout: default
 
 
   
-  {% assign posts = paginator.posts %}
+  {% if site.paginate %}
+    {% assign posts = paginator.posts %}
+  {% else %}
+    {% assign posts = site.posts %}
+  {% endif %}
   
 
 
