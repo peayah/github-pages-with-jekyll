@@ -1,7 +1,3 @@
----
-layout:page
----
-
 Time stands still when I code.
 
 I’m a full-stack python developer with industry experience in building websites and working with data in various ways.
