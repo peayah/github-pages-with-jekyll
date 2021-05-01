@@ -11,6 +11,12 @@ Constantly Learning — Consistently Problem Solving — Constructively Coding
 **Data Manipulation and Visualization**: Tableau, Excel.  
 **Web Coding**: HTML, CSS, JavaScript, JAM.  
 
+## Education
+2022 - BA in Computer Science - Foothill College, CA (August)
+2021 - Certificate of Achievement in Advance Software Development - Foothill College, CA (June)
+2021 - Certificate of Achievement in Data Analytics - Foothill College, CA (July)
+
+
 ## Projects
 Here is are a few code samples. More at [my GitHub repository](https://github.com/peayah).
 
