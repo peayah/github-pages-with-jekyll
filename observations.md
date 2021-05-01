@@ -9,5 +9,5 @@ layout: page
   <span class="post-meta">{{ observation.date | date: date_format }}</span>
   <h2>{{ observation.title }}</h2>
   <p>{{ observation.content | markdownify }}</p>
-  <hl>
+  <hr>
 {% endfor %}
