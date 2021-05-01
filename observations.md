@@ -1,5 +1,5 @@
 ---
-title: Observations on this and thatn
+title: Observations
 permalink: /observations/
 layout: observations
 ---
