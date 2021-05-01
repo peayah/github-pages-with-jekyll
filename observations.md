@@ -1,7 +1,7 @@
 ---
 title: Observations
 permalink: /observations/
-layout: observations
+layout: page
 ---
 
 {% for observation in site.observations %}
