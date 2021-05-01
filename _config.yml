@@ -11,5 +11,9 @@ github_username:  peayah
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
+# collections
+collections: observations
+    output: true
+
 # build
 theme: minima
