@@ -17,6 +17,7 @@ collections:
     sort_by: date
     output: true
   portfolio-pieces:
+    sort_by: organization
     output: true
 
 # build
