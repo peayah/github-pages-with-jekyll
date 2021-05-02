@@ -8,5 +8,3 @@ contribution: Solo
 type: 
 
 ---
-
-
