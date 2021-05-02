@@ -15,7 +15,6 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 collections:
   observations:
     sort_by: date
-    
   portfolio-pieces:
     output: true
     order:
