@@ -5,7 +5,7 @@ date: 2021-05-03
 title: Maze Solution Finder
 tech: Python
 contribution: Solo
-type: Class Project
+type: (Class Project)
 
 ---
 
