@@ -4,8 +4,9 @@ title: Portfolio
 content:
     items: '@self.children'
 order_manual:
-    - maze-finder
     - wordpress-sites
+    - maze-finder
+    - portfolio-site
     
 
 permalink: /portfolio/
