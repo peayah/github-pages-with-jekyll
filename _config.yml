@@ -14,7 +14,7 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 # collections
 collections:
   output: true
-  portfolio-pieces:   
+  _portfolio-pieces:   
     order:
       - maze-finder.md
       - wordpress-sites.md
