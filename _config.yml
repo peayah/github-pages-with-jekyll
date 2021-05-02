@@ -13,12 +13,12 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 
 # collections
 collections:
-  observations:
-    sort_by: date
-    output: true
-  portfolio-pieces:
-    sort_by: organization
-    output: true
+observations:
+sort_by: date
+    
+portfolio-pieces:
+sort_by: organization
+output: true
 
 # build
 theme: minima
