@@ -16,6 +16,8 @@ collections:
   observations:
     sort_by: date
     output: true
+   portfolio-pieces:
+    output: true
 
 # build
 theme: minima
