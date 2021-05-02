@@ -8,7 +8,7 @@ permalink: /portfolio/
   
 
   <p><b>Technology used: </b>{{piece.tech}}
-  <p><b>My Contribution: </b>{{piece.contribution}} {{piece.type}}
+  <p><b>My Contribution: </b>{{piece.contribution}}
   <p>{{ piece.content | markdownify }} <span>{{piece.type}}</span></p>
   <br/>
   <hr>
