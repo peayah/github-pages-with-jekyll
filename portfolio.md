@@ -13,7 +13,7 @@ permalink: /portfolio/
 ---
 {% for piece in site.portfolio-pieces %}
   <h2>{{ piece.title }}</h2>
-  <p><em>Technology used:</em>{{piece.tech}}
+  <p><b>Technology used: </b>{{piece.tech}}
   <p>{{ piece.content | markdownify }}</p>
   <br/>
   <hr>
