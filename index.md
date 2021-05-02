@@ -9,7 +9,8 @@ Constantly Learning — Consistently Problem Solving — Constructively Coding
 ## Skills
 **Database Coding**: Python, R, SQL.  
 **Data Manipulation and Visualization**: Tableau, Excel.  
-**Web Coding**: HTML, CSS, JavaScript, JAM.  
+**Web Coding**: HTML, CSS, JavaScript.
+**JAM**: Gatsby, Jekyll, Hugo, JSON, REST.  
 
 ## Education
 2022 - BA in Computer Science - Foothill College, CA (August).  
