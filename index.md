@@ -19,7 +19,7 @@ Constantly Learning — Consistently Problem Solving — Constructively Coding
 BA in International Business Communication - Niels Brock, DK.  
 Certificate in Marketing - Niels Brock, DK.
 
-## Projects
+## Highlighted Projects
 Here is are a few code samples. More at [my GitHub repository](https://github.com/peayah).
 
 ### Subset Sum
