@@ -1,6 +1,13 @@
 ---
 layout: page
 title: Portfolio
+content:
+    items: '@self.children'
+order_manual:
+    - maze-finder
+    - wordpress-sites
+    
+
 permalink: /portfolio/
 ---
 {% for piece in site.portfolio-pieces %}
