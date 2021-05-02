@@ -17,8 +17,11 @@ collections:
     sort_by: date
     
   portfolio-pieces:
-    sort_by: organization
     output: true
+    order:
+      - maze-finder.md
+      - wordpress-sites.md
+      - portfolio-site.md   
 
 # build
 theme: minima
