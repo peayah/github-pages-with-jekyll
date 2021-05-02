@@ -1,6 +1,6 @@
 ---
 title: My Portfolio
-tech: Jekyll, markdown
+tech: Jekyll, MarkDown
 organization: 1
 ---
 Here it is
