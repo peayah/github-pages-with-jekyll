@@ -1,9 +1,9 @@
----
-layout: page
-title: Observations
-permalink: /observations/
+# ---
+# layout: page
+# title: Observations
+# permalink: /observations/
 
----
+# ---
 
 
 {% for observation in site.observations reversed %}
