@@ -13,7 +13,7 @@ Constantly Learning — Consistently Problem Solving — Constructively Coding
 **JAM**: Gatsby, Jekyll, Hugo, JSON, REST.  
 
 ## Education
-2022 - BA in Computer Science - Foothill College, CA (August).  
+[//]: # (2022 - BA in Computer Science - Foothill College, CA (August).)  
 2021 - Certificate of Achievement in Data Analytics - Foothill College, CA (July).  
 2021 - Certificate of Achievement in Advanced Software Development - Foothill College, CA (June).  
 
