@@ -29,19 +29,19 @@ Code samples and projects at [my GitHub repository](https://github.com/peayah).
 
 ## Experience
 
-**Universal Audio**
-2016 - present
+**Universal Audio** 
+(2016 - present) - 
 (work while studying)
 Working with amazing people, being backend support for our sales reps selling our awesome products. 
 **Technologies**: Excel and database maintenance. 
 
-**Community Bridges**
-2014 - 2016
+**Community Bridges** 
+(2014 - 2016) - 
 Was part of a dedicated group in the main office. Helped market and and fundraise for marvelous group of humanitarian non-profits such as Meals on  Wheels, WIC California and family of other programs.
-**Technologies**: graphic design, web development, marketing and database maintenance.
+**Technologies**: Graphic design, web development, marketing and database maintenance.
 
-**Contract Graphic and Web Designer**
-2011 - 2014
+**Contract Graphic and Web Designer** 
+(2011 - 2014) - 
 Helping small businesses, non-profits and solo-preneurs make the most of their presence off and online. 
 **Technologies**: HTML, CSS, Bootstrap, JavaScript, Jquery, AngularJS, SQL PHP, CMS, WordPress and databases, Adobe Suite.
 
