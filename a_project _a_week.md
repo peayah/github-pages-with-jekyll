@@ -1,7 +1,7 @@
 ---
 
-title: A Project a Week
-permalink: /a_project_a_week/
+title: Current Project
+permalink: /current_project/
 layout: blog
 ---
 
