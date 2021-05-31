@@ -21,7 +21,7 @@ BA in International Business Communication - Niels Brock, DK.
 Certificate in Marketing - Niels Brock, DK.
 
 ## Portfolio Projects
-Here is are a few code samples. More at [my GitHub repository](https://github.com/peayah).
+Code samples and projects at [my GitHub repository](https://github.com/peayah).
 
 ## Experience
 abc
