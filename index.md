@@ -15,7 +15,11 @@ Constantly Learning — Consistently Problem Solving — Constructively Coding
 ## Education
 [//]: # (2022 - BA in Computer Science - Foothill College, CA (August).)  
 2021 - Certificate of Achievement in Data Analytics - Foothill College, CA (July).  
-2021 - Certificate of Achievement in Advanced Software Development - Foothill College, CA (June).  
+2021 - Certificate of Achievement in Advanced Software Development - Foothill College, CA (June). 
+
+2018 - Udacity Mobile Web Specialist Courses
+       **Technologies and concepts used**: accessibility, service worker, cache storage, indexeddb, JSON, developer tools*
+
 
 BA in International Business Communication - Niels Brock, DK.  
 Certificate in Marketing - Niels Brock, DK.
@@ -24,4 +28,20 @@ Certificate in Marketing - Niels Brock, DK.
 Code samples and projects at [my GitHub repository](https://github.com/peayah).
 
 ## Experience
-abc
+
+**Universal Audio**
+2016 - present
+(work while studying)
+Working with amazing people, being backend support for our sales reps selling our awesome products. 
+**Technologies**: Excel and database maintenance. 
+
+**Community Bridges**
+2014 - 2016
+Was part of a dedicated group in the main office. Helped market and and fundraise for marvelous group of humanitarian non-profits such as Meals on  Wheels, WIC California and family of other programs.
+**Technologies**: graphic design, web development, marketing and database maintenance.
+
+**Pia Smith Dot Com**
+2011 - 2014
+Helping small businesses, non-profits and solo-preneurs make the most of their presence off and online. 
+**Technologies**: HTML, CSS, Bootstrap, JavaScript, Jquery, AngularJS, SQL PHP, CMS, WordPress and databases, Adobe Suite.
+
