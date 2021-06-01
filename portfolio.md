@@ -13,8 +13,8 @@ permalink: /portfolio/
   
   {% raw %}
   My favorite search engine is [Duck Duck ().
-  [Link title](site.code-sample.visualizer)
-  [Link title](site.code-sample.visualizer.md)
+  [Link title](site.code-samples.visualizer)
+  [Link title](site.code-samples.visualizer.md)
 
   {% endraw %}
 
