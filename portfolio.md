@@ -11,7 +11,6 @@ permalink: /portfolio/
 
   <p><b>Technology used: </b>{{piece.tech}} / <a href="{{ piece.code }}">code</a></p>
   
-  **DIG Technology used**: {{piece.tech}} / [code] ({% link {{ piece.code }} %})
 
   <p><b>My Contribution: </b>{{piece.contribution}} {{piece.type}}</p>
   <p>{{ piece.content | markdownify }}</p>
