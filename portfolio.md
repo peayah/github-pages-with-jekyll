@@ -4,7 +4,8 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-{% for piece in site.categories.piece reversed%}
+{% for piece in site.categories.piece %}
+
 
   <img src = "{{ piece.img }}" alt = "{{ piece.imgalt }}" class="img-responsive" style="height: 60%; float: right; margin-right: 10px;" />
 
