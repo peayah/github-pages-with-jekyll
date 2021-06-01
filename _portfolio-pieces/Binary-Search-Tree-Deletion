@@ -6,10 +6,11 @@ title: Binary Search Tree Deletion
 tech: Python
 contribution: Solo
 type: (Class Project)
-codeurl: ../_code-samples/visualizer
+codeurl: _code-samples/visualizer.md
 img: ../assets/images/9x9.png
 imgalt: 9 by 9 maze
 
 ---
 
 Code that lazy-deletes and hard deletes nodes in Binary Search Tree. Traverses tree and when searching for particular node, is able to differentiate between not deleted, lazy-deleted and hard deleted nodes. 
+
