@@ -4,14 +4,6 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-{% for post in site.categories.visualizer %} 
-  <a href="{{ post.url }}">{{post.title}}</a>
-{% endfor %}
-
-{% for post in site.categories.piece %} 
-  <a href="{{ post.url }}">{{post.title}}</a>
-{% endfor %}
-
 {% for piece in site.portfolio-pieces reversed %}
 
 
