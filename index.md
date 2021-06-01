@@ -1,5 +1,21 @@
 Time stands still when I code.
 
+[Link title]({{ site.baseurl }}{% link _code-sanmples/visualizer.md %}
+
+[Link title]({{ site.baseurl }}{% link _portfolio-pieces/subsetsum.md %}
+
+[Link title]({{ site.baseurl }}{% link _posts/2021-05-09-lend-a-book-django-project.md %}
+
+
+[Link title]({{ site.baseurl }}{% link _code-sanmples/visualizer.md %}
+
+[Link title]({{ site.baseurl }}{% link _portfolio-pieces/subsetsum.md %}
+
+[Link title]({{ site.baseurl }}{% link _posts/2021-05-09-lend-a-book-django-project.md %}
+
+
+
+
 I’m a full-stack python developer with industry experience in building websites and working with data in various ways.
 
 I have also taken classes in Database Management and Data Visualization and have April 2021 handed in the final assignment in my last programming class; Advanced Data Structures and Algorithms at Foothill College. As I’m finishing my CS degree, I’d like to start working as a programmer instead of sneaking a few hours after a full day at work.
