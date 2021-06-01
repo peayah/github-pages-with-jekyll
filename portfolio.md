@@ -12,7 +12,7 @@ permalink: /portfolio/
   <p><b>Technology used: </b>{{piece.tech}} / <a href="{{ piece.codeurl }}">code</a></p>
   
   {% raw %}
-  My favorite search engine is [Duck Duck Go]({% link _code-samples/visualizer.md %}).
+  My favorite search engine is [Duck Duck o](piece.codeurl).
 
   {% endraw %}
 
