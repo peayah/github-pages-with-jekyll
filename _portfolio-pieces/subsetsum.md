@@ -4,6 +4,8 @@ layout: post
 date: 2021-05-31
 title: Subset Sum
 tech: Python
+categories: piece
+code: subset
 contribution: Solo
 type: (Class Project)
 
