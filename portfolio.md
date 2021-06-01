@@ -14,7 +14,6 @@ permalink: /portfolio/
   
   {% for post in site.categories.visualizer %} <a href="{{ post.url }}">new link</a></li>{% endfor %}
   
-
   <p><b>My Contribution: </b>{{piece.contribution}} {{piece.type}}</p>
   <p>{{ piece.content | markdownify }}</p>
   <br/>
