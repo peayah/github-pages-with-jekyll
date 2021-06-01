@@ -4,6 +4,8 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
+{% for post in site.categories.visualizer %} <a href="{{ post.url }}">{{post.content}}</a>{% endfor %}
+
 {% for piece in site.portfolio-pieces reversed %}
 
 
@@ -13,7 +15,7 @@ permalink: /portfolio/
 
   <p><b>Technology used: </b>{{piece.tech}} / <a href= "{{ piece.codeurl }}">code</a></p>
   
-  {% for post in site.categories.visualizer %} <a href="{{ post.url }}">NEW link</a>{% endfor %}
+  
   
   <p><b>My Contribution: </b>{{piece.contribution}} {{piece.type}}</p>
   <p>{{ piece.content | markdownify }}</p>
