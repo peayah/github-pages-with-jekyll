@@ -1,4 +1,0 @@
----
----
-
-code sample text
