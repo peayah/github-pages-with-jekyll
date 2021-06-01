@@ -25,3 +25,7 @@ permalink: /portfolio/
   <br/>
   
 {% endfor %}
+
+{% for pong in site.code-samples reversed%}
+<p>{{ pong.content | markdownify }}</p>
+{% endfor %}
