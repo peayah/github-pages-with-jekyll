@@ -1,20 +1,10 @@
 Time stands still when I code.
 
-[Link title]({{ site.baseurl }}{% link _code-sanmples/visualizer.md %})
+[Link title]({% link _code-sanmples/visualizer.md %})
 
-[Link title]({{ site.baseurl }}{% link _portfolio-pieces/subsetsum.md %})
+[Link title]({% link _portfolio-pieces/subsetsum.md %})
 
-[Link title]({{ site.baseurl }}{% link _posts/2021-05-09-lend-a-book-django-project.md %})
-
-
-[Link title]({{ site.baseurl }}{% link _code-sanmples/visualizer.md %})
-
-[Link title]({{ site.baseurl }}{% link _portfolio-pieces/subsetsum.md %})
-
-[Link title]({{ site.baseurl }}{% link _posts/2021-05-09-lend-a-book-django-project.md %})
-
-
-
+[Link title]({% link _posts/2021-05-09-lend-a-book-django-project.md %})
 
 I’m a full-stack python developer with industry experience in building websites and working with data in various ways.
 
