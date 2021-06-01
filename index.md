@@ -1,17 +1,17 @@
 Time stands still when I code.
 
-[Link title]({{ site.baseurl }}{% link _code-sanmples/visualizer.md %}
+[Link title]({{ site.baseurl }}{% link _code-sanmples/visualizer.md %})
 
-[Link title]({{ site.baseurl }}{% link _portfolio-pieces/subsetsum.md %}
+[Link title]({{ site.baseurl }}{% link _portfolio-pieces/subsetsum.md %})
 
-[Link title]({{ site.baseurl }}{% link _posts/2021-05-09-lend-a-book-django-project.md %}
+[Link title]({{ site.baseurl }}{% link _posts/2021-05-09-lend-a-book-django-project.md %})
 
 
-[Link title]({{ site.baseurl }}{% link _code-sanmples/visualizer.md %}
+[Link title]({{ site.baseurl }}{% link _code-sanmples/visualizer.md %})
 
-[Link title]({{ site.baseurl }}{% link _portfolio-pieces/subsetsum.md %}
+[Link title]({{ site.baseurl }}{% link _portfolio-pieces/subsetsum.md %})
 
-[Link title]({{ site.baseurl }}{% link _posts/2021-05-09-lend-a-book-django-project.md %}
+[Link title]({{ site.baseurl }}{% link _posts/2021-05-09-lend-a-book-django-project.md %})
 
 
 
