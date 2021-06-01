@@ -21,6 +21,8 @@ collections:
     - portfolio-site.md 
   # observations:
     # sort_by: date
+  code-samples:
+    sort_by: date
     
 # build
 theme: minima
