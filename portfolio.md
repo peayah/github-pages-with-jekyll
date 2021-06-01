@@ -14,7 +14,6 @@ permalink: /portfolio/
   % raw %}
   My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
-  In Handlebars, {{ piece.codeurl }} will be HTML-escaped, but {{{ piece.codeurl }}} will not.
   {% endraw %}
 
   <p><b>My Contribution: </b>{{piece.contribution}} {{piece.type}}</p>
