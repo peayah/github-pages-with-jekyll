@@ -4,7 +4,7 @@ layout: post
 date: 2021-05-03
 title: Maze Solution Visualizer
 categories: piece
-code": maze
+code: maze
 tech: Python
 contribution: Solo
 type: (Class Project)
