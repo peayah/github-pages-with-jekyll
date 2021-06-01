@@ -9,10 +9,10 @@ permalink: /portfolio/
 
   <h2>{{ piece.title }} </h2>
 
-  <p><b>Technology used: </b>{{piece.tech}} / <a href= "{{piece.codeurl }}">code</a></p>
+  <p><b>Technology used: </b>{{piece.tech}} / <a href= "{{ piece.codeurl }}">code</a></p>
   
   {% raw %}
-  My favorite search engine is [Duck Duck o]({% link piece.codeurl %}).
+  My favorite search engine is [Duck Duck o]().
   {% endraw %}
 
   <p><b>My Contribution: </b>{{piece.contribution}} {{piece.type}}</p>
