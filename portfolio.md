@@ -10,6 +10,12 @@ permalink: /portfolio/
   <h2>{{ piece.title }} </h2>
 
   <p><b>Technology used: </b>{{piece.tech}} / <a href="{{ piece.codeurl }}">code</a></p>
+  
+  % raw %}
+  My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+
+  In Handlebars, {{ piece.codeurl }} will be HTML-escaped, but {{{ piece.codeurl }}} will not.
+  {% endraw %}
 
   <p><b>My Contribution: </b>{{piece.contribution}} {{piece.type}}</p>
   <p>{{ piece.content | markdownify }}</p>
