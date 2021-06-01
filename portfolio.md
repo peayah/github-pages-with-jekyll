@@ -10,13 +10,6 @@ permalink: /portfolio/
   <h2>{{ piece.title }} </h2>
 
   <p><b>Technology used: </b>{{piece.tech}} / <a href= "{{ piece.codeurl }}">code</a></p>
-  
-  {% raw %}
-  My favorite search engine is [Duck Duck ().
-  [Link title](site.code-samples.visualizer)
-  [Link title](site.code-samples.visualizer.md)
-
-  {% endraw %}
 
   <p><b>My Contribution: </b>{{piece.contribution}} {{piece.type}}</p>
   <p>{{ piece.content | markdownify }}</p>
@@ -24,8 +17,10 @@ permalink: /portfolio/
   <hr>
   <br/>
   
-{% endfor %}
-
-{% for pong in site.code-samples reversed%}
+  {% for pong in site.code-samples reversed%}
 <p>{{ pong.content | markdownify }}</p>
 {% endfor %}
+  
+{% endfor %}
+
+
