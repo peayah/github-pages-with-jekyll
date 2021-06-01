@@ -10,7 +10,7 @@ permalink: /portfolio/
   <h2>{{ piece.title }} </h2>
 
   <p><b>Technology used: </b>{{piece.tech}} / <a href="{{ piece.code }}">code</a></p>
-  <p><b>Technology used: </b>{{piece.tech}} / <a href="{% link piece.code %}">code</a></p>
+[{{ piece.title }}]({{ piece.code | prepend: site.baseurl }})
 
   
   <p><b>My Contribution: </b>{{piece.contribution}} {{piece.type}}</p>
