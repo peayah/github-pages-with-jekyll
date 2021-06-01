@@ -6,7 +6,6 @@ title: Binary Search Tree Deletion
 tech: Python
 contribution: Solo
 type: (Class Project)
-code: ../_code-samples/visualizer.md
 img: ../assets/images/9x9.png
 imgalt: 9 by 9 maze
 
