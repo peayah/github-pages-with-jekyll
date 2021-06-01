@@ -11,9 +11,6 @@ github_username:  peayah
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-include:
-  - _code-samples
-
 # collections
 collections:
   output: true
@@ -24,6 +21,8 @@ collections:
     - portfolio-site.md 
   # observations:
     # sort_by: date
+  code-samles:
+    -sort_by: date
     
 # build
 theme: minima
