@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: hello
-category: visualizer
+categories: visualizer
 ---
 
 code sample text
