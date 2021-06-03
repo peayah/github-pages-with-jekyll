@@ -12,8 +12,8 @@ permalink: /portfolio/
 
   <h2>{{ piece.title }} </h2>
   {% raw %}
-  [link title ow]{% link _portfolio-pieces/visualizer.md %}
-  [link title]{{ site.baseurl }}{% _portfolio-pieces/visualizer.md %}
+  ![link title ow]{% link _portfolio-pieces/visualizer.md %}
+  ![link title]{{ site.baseurl }}{% _portfolio-pieces/visualizer.md %}
   {% endraw %}
   <p><b>Technology used: </b>{{piece.tech}} / <a href= "{{ piece.codeurl }}/">code</a></p>  
   
