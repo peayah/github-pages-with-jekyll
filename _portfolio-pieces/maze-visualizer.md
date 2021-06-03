@@ -6,6 +6,7 @@ title: Maze Solution Visualizer
 categories: piece
 code: maze
 tech: Python
+img: ../assets/images/9x9.png
 contribution: Solo
 type: (Class Project)
 
