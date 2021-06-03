@@ -1,7 +1,7 @@
----
-layout: page
-title: Observations
-permalink: /observations/
+# ---
+# layout: page
+# title: Observations
+# permalink: /observations/
 
 ---
 
