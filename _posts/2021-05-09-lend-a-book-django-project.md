@@ -12,4 +12,4 @@ Heroku:
 
 GitHub: [https://github.com/peayah/LittleLibrary](https://github.com/peayah/LittleLibrary)
 
-![Tux, he Linux mascot](../assets/images/duck.jpg) | ![Tux, he Linux mascot](../../../assets/images/9x9.png)
+# ![Tux, he Linux mascot](../assets/images/duck.jpg) | ![Tux, he Linux mascot](../../../assets/images/9x9.png)
