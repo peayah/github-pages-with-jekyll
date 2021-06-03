@@ -11,6 +11,8 @@ permalink: /portfolio/
   <img src = "{{ piece.img }}" alt = "{{ piece.imgalt }}" class="img-responsive" style="height: 60%; float: right; margin-right: 10px;" />
 
   <h2>{{ piece.title }} </h2>
+  {% link _portfolio-pieces/visualizer.md %}
+{{ site.baseurl }}{% _portfolio-pieces/visualizer.md %}
 
   <p><b>Technology used: </b>{{piece.tech}} / <a href= "{{ piece.codeurl }}/">code</a></p>  
   
