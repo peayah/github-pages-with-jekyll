@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 published: true
 title: "hello"
 categories: visualizer
