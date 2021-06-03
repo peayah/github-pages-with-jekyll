@@ -7,6 +7,8 @@ categories: piece
 code: maze
 tech: Python
 img: ../assets/images/9x9.png
+imgalt: 9 by 9 maze
+
 contribution: Solo
 type: (Class Project)
 
