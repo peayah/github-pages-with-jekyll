@@ -12,20 +12,20 @@ layout: default
 
   
   {% if site.paginate %}
-    {% assign posts = paginator.portfolio-pieces %}
+    {% assign pieces = paginator.portfolio-pieces %}
   {% else %}
-    {% assign posts = site.portfolio-pieces %}
+    {% assign pieces = site.portfolio-pieces %}
   {% endif %}
   
 
 
-  {%- if posts.size > 0 -%}
+  {%- if pieces.size > 0 -%}
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
   
     <ul class="post-list">
-      {%- for post in posts -%}
+      {%- for post in pieces -%}
       <li>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
