@@ -11,11 +11,13 @@ permalink: /portfolio/
   <img src = "{{ piece.img }}" alt = "{{ piece.imgalt }}" class="img-responsive" style="height: 60%; float: right; margin-right: 10px;" />
 
   <h2>{{ piece.title }} </h2>
-  <a href="../current_projects.md"> version one</a>
-  {% raw %}
-  Read more [version 2](./visualizer.md)
+  <a href="./visualizer.md"> version one</a>
+  <a href="../visualizer.md"> version two</a>
+  <a href="visualizer.md"> version three</a>
 
-  {% endraw %}
+
+  Read more [version 4](./visualizer.md)
+
   
   <p><b>Technology used: </b>{{piece.tech}} / <a href= "{{ piece.codeurl }}/">code</a></p>  
   
