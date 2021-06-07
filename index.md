@@ -2,7 +2,7 @@
 
 Please see the [project 1]({{ site.baseurl }}/code-samples/visualizer.md) for further details.
 
-Please see the [project 1]({{ site.baseurl }}/current-projects.md) for further details.
+Please see the [project 1]({{ site.baseurl }}/current-projects.html) for further details.
 
 
 Time stands still when I code.
