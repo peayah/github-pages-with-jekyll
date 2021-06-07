@@ -12,9 +12,9 @@ layout: default
 
   
   {% if site.paginate %}
-    {% assign posts = paginator.posts %}
+    {% assign postss = paginator.posts %}
   {% else %}
-    {% assign posts = site.posts %}
+    {% assign postss = site.posts %}
   {% endif %}
   
 
@@ -25,7 +25,7 @@ layout: default
     {%- endif -%}
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
+      {%- for post in postss -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
