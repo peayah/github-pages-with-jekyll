@@ -1,6 +1,6 @@
 
 
-Please see the [project 1]({{ site.code-samples }}/visualizer.md) for further details.
+Please see the [project 1](visualizer.md) for further details.
 
 Please see the [project 1]({{ site.code-samples }}/visualizer) for further details.
 
