@@ -1,14 +1,14 @@
 ---
 
 layout: portfolio-piece
+title: Binary Search Tree Deletion
 published: True
 date: 2021-05-31
-title: Binary Search Tree Deletion
+
 tech: Python
 contribution: Solo
 type: (Class Project)
 categories: piece
-code: lazy
 
 ---
 
