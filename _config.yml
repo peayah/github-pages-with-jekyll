@@ -11,6 +11,8 @@ github_username:  peayah
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
+baseurl: /
+
 # collections
 collections:
   output: true
