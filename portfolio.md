@@ -11,14 +11,9 @@ permalink: /portfolio/
   <img src = "{{ piece.img }}" alt = "{{ piece.imgalt }}" class="img-responsive" style="height: 60%; float: right; margin-right: 10px;" />
 
   <h2>{{ piece.title }} </h2>
-  <a href="./{{piece.code | relative_url}}"> version two</a>
-  <a href="{{piece.code | relative_url}}"> version three</a>
-
-  Read more [version 4](./visualizer.md?raw=1)
-
-
+  <a href="/{{piece.code | relative_url}}"> version two</a>
   
-  <p><b>Technology used: </b>{{piece.tech}} / <a href= "{{ piece.codeurl }}/">code</a></p>  
+  <p><b>Technology used: </b>{{piece.tech}} / <a href= "{{ piece.code }}/">code</a></p>  
   
   <p><b>My Contribution: </b>{{piece.contribution}} {{piece.type}}</p>
   <p>{{ piece.content | markdownify }}</p>
