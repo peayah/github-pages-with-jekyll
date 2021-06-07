@@ -8,6 +8,7 @@ categories: piece
 code: 
 contribution: Solo
 type: 
+published: True
 
 ---
 Design and development, helping small businesses, non-profits and solo-preneurs make the most of their presence off and online. 
