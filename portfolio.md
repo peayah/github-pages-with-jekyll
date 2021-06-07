@@ -12,7 +12,9 @@ permalink: /portfolio/
 
   <h2>{{ piece.title }} </h2>
   <a href="{{ piece.codeurl | relative_url}}"> version two</a>
-  <a href="{{ piece.codeurl }}"> version two</a>
+  <a href="{{ piece.codeurla }}"> version a</a>
+  <a href="{{ piece.codeurlb }}"> version b</a>
+  <a href="{{ piece.codeurlc }}"> version c</a>
 
   
   <p><b>Technology used: </b>{{piece.tech}} / <a href= "{{ piece.code | relative_url }}/">code</a></p>  
