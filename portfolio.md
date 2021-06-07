@@ -13,7 +13,7 @@ permalink: /portfolio/
   <h2>{{ piece.title }} </h2>
   <a href="/{{piece.code | relative_url}}"> version two</a>
   
-  <p><b>Technology used: </b>{{piece.tech}} / <a href= "{{ piece.code }}/">code</a></p>  
+  <p><b>Technology used: </b>{{piece.tech}} / <a href= "{{ piece.code | relative_url }}/">code</a></p>  
   
   <p><b>My Contribution: </b>{{piece.contribution}} {{piece.type}}</p>
   <p>{{ piece.content | markdownify }}</p>
