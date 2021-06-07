@@ -1,10 +1,3 @@
-
-
-Please see the [project 1](visualizer.md) for further details.
-
-Please see the [project 1]({{ site.code-samples }}/visualizer) for further details.
-
-
 Time stands still when I code.
 
 I’m a full-stack python developer with industry experience in building websites and working with data in various ways.
