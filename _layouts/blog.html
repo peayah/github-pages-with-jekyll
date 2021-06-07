@@ -28,7 +28,7 @@ layout: default
       
        
          {%- for post in posts -%}
-       {% if post.categories contains "bio" %}
+       {% if post.categories contains "current" %}
          <li>
            <span class="post-meta">{{ post.date | date: date_format }}</span>
            <h3>
