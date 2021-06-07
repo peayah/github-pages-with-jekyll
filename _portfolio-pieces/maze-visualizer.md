@@ -4,9 +4,9 @@ layout: post
 date: 2021-05-03
 title: Maze Solution Visualizer
 categories: piece
-codeurla: ../code-samples/visualizer
-codeurlb: /visualizer.md
-codeurlc: ../../code-samples/visualizer.md
+codeurla: visualizer
+codeurlb: visualizer.md
+
 tech: Python
 img: ../assets/images/9x9.png
 imgalt: 9 by 9 maze
