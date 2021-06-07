@@ -11,10 +11,11 @@ permalink: /portfolio/
   <img src = "{{ piece.img }}" alt = "{{ piece.imgalt }}" class="img-responsive" style="height: 60%; float: right; margin-right: 10px;" />
 
   <h2>{{ piece.title }} </h2>
-  <a href="{{ piece.codeurl | relative_url}}"> version two</a>
-  <a href="{{ piece.codeurla }}"> version a</a>
-  <a href="{{ piece.codeurlb }}"> version b</a>
-  <a href="{{ piece.codeurlc }}"> version c</a>
+  <a href="/code-samples/{{ piece.codeurla }}"> version two</a>
+  <a href="/code-samples/{{ piece.codeurlb | relative_url }}"> version a</a>
+  
+  <a href="../code-samples/{{ piece.codeurla | relative_url }}"> version b</a>
+  <a href="../code-samples/{{ piece.codeurlb | relative_url }}"> version c</a>
 
   
   <p><b>Technology used: </b>{{piece.tech}} / <a href= "{{ piece.code | relative_url }}/">code</a></p>  
