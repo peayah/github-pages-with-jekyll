@@ -12,14 +12,14 @@ layout: default
 
   
   {% if site.paginate %}
-    {% assign postss = paginator.posts %}
+    {% assign posts = paginator.posts %}
   {% else %}
-    {% assign postss = site.posts %}
+    {% assign posts = site.posts %}
   {% endif %}
   
 
 
-  {%- if postss.size > 0 -%}
+  {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
