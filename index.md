@@ -1,10 +1,10 @@
 
 
-Please see the [project 1](../resume-portfolio/code-samples/visualizer.md) for further details.
+Please see the [project 1](../resume-portfolio/code-samples/visualizer) for further details.
 
-Please see the [project 2](../code-samples/visualizer.md) for further details.
+Please see the [project 2](../code-samples/visualizer) for further details.
 
-Please see the [project 3](..//visualizer.md) for further details.
+Please see the [project 3](..//visualizer) for further details.
 
 
 Time stands still when I code.
