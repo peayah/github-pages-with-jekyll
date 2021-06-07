@@ -1,8 +1,11 @@
-Please see the [project vis](../code-samples/visualizer.html) for further details.
-Please see the [project ense](../observations/why-is-it.html) for further details.
 
-Please see the [project vias](/code-samples/visualizer.md) for further details.
-Please see the [projectnse](/observations/why-is-it.md) for further details.
+
+Please see the [project 1](../resume-portfolio/code-samples/visualizer.md) for further details.
+
+Please see the [project 2](../code-samples/visualizer.md) for further details.
+
+Please see the [project 3](..//visualizer.md) for further details.
+
 
 Time stands still when I code.
 
