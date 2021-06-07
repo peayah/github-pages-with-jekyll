@@ -2,7 +2,7 @@
 layout: page
 title: "hello"
 categories: visualizer
-permalink: visualizer
+permalink: /visualizer/
 
 ---
 
