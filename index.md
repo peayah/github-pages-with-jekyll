@@ -1,3 +1,9 @@
+Please see the [project vis](../code-samples/visualizer.md) for further details.
+Please see the [project ense](../observations/why-is-it.md) for further details.
+
+Please see the [project vias](./code-samples/visualizer.md) for further details.
+Please see the [projectnse](./observations/why-is-it.md) for further details.
+
 Time stands still when I code.
 
 I’m a full-stack python developer with industry experience in building websites and working with data in various ways.
