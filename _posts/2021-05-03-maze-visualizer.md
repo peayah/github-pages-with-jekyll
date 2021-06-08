@@ -1,16 +1,12 @@
 ---
 
-layout: post
+layout: p
 date: 2021-05-03
 title: Maze Solution Visualizer
 categories: piece
-codeurla: visualizer
-codeurlb: visualizer.md
-
 tech: Python
 img: ../assets/images/9x9.png
 imgalt: 9 by 9 maze
-
 contribution: Solo
 type: (Class Project)
 
