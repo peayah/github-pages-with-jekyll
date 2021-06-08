@@ -1,6 +1,6 @@
 ---
 
-layout: post
+layout: portfolio-piece
 date: 2021-05-31
 title: Subset Sum
 tech: Python
