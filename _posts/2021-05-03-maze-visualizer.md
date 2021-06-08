@@ -6,8 +6,8 @@ title: Maze Solution Visualizer
 categories: piece
 tech: Python
 imgalt: 9 by 9 maze
-img-small:  ../assets/images/maze-small.jpg
-img-medium: ../assets/images/maze-medium.jpg
+img_small:  ../assets/images/maze-small.jpg
+img_medium: ../assets/images/maze-medium.jpg
 contribution: Solo
 type: (Class Project)
 
