@@ -21,7 +21,16 @@ layout: default
     <p><b>Technology used: </b>{{page.tech}} </p>
     <p><b>My Contribution: </b>{{page.contribution}} {{page.type}}</p>
     <img src = "../../../{{ page.img }}" alt = "{{ page.imgalt }}" class="img-responsive" style="height: 60%; float: right; margin-right: 10px;" />
+    {% if page.img2 %}
+    <img src = "../../../{{ page.img2 }}" alt = "{{ page.imgalt2 }}" class="img-responsive" style="height: 60%; float: right; margin-right: 10px;" />
+
+    {% endif %}
     {{ content }}
+     {% if page.img3 %}
+    <img src = "../../../{{ page.img3 }}" alt = "{{ page.imgalt3 }}" class="img-responsive" style="height: 60%; float: left; margin-right: 10px;" />
+
+    {% endif %}
+    
   </div>
 
   {%- if site.disqus.shortname -%}
