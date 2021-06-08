@@ -5,10 +5,11 @@ date: 2021-05-03
 title: Maze Solution Visualizer
 categories: piece
 tech: Python
-img: ../assets/images/maze.jpg
 imgalt: 9 by 9 maze
-img2: ../assets/images/9x9.png
-imgalt2: 9 by 9 maze
+img:
+  small:  ../assets/images/maze-small.jpg
+  medium: ../assets/images/maze-medium.jpg
+  large:  chickpea-large.jpg
 contribution: Solo
 type: (Class Project)
 
