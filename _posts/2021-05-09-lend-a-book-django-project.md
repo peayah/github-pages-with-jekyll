@@ -3,7 +3,7 @@ layout: post
 title: "Lend a Book"
 published: True
 categories: current
-img: imge.jpg
+img: ../assets/images/image.jpg
 
 ---
 
