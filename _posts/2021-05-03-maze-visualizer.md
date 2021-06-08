@@ -14,7 +14,7 @@ type: (Class Project)
 
 The exercise was to come up with a function that travels through a maze built from lists and add edges to the coordinates. It would then be fed into a Dijkstra function what found the shortest path. Then I needed to get the coordinates from the shortest path so I could print the shortest path in the maze but also print the solution, a list of coordinates. Cat ipsum dolor sit amet, a nice warm laptop for me to sit on or meeeeouw. Making bread on the bathrobe going to catch the red dot today going to catch the red dot today or hit you unexpectedly sit on human they not getting up ever run outside as soon as door open chill on the couch table. 
 
-![imgalt](img) Meow all night having their mate disturbing sleeping humans. Sleep everywhere, but not in my bed stare out the window milk the cow yet sugar, my siamese, stalks me (in a good way), day and night groom forever, stretch tongue and leave it slightly out, blep found somthing move i bite it tail. Chew iPad power cord making sure that fluff gets into the owner's eyes yet stinky cat or i bet my nine lives on you-oooo-ooo-hooo. I hate cucumber pls dont throw it at me sun bathe always hungry. 
+![page.imgalt](page.img) Meow all night having their mate disturbing sleeping humans. Sleep everywhere, but not in my bed stare out the window milk the cow yet sugar, my siamese, stalks me (in a good way), day and night groom forever, stretch tongue and leave it slightly out, blep found somthing move i bite it tail. Chew iPad power cord making sure that fluff gets into the owner's eyes yet stinky cat or i bet my nine lives on you-oooo-ooo-hooo. I hate cucumber pls dont throw it at me sun bathe always hungry. 
 
 ## Leave buried treasure in the sandbox
 
