@@ -35,6 +35,12 @@ layout: default
              {{ post.title | escape }}
            </a>
            </h3>
+           
+            <p><b>Technology used: </b>{{post.tech}} </p>  
+  
+            <p><b>My Contribution: </b>{{post.contribution}} {{post.type}}</p>
+           
+           
           {%- if site.show_excerpts -%}
             {{ post.excerpt }}
           {%- endif -%}
