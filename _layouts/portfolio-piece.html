@@ -29,10 +29,10 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     
     
-  <p><b>Technology used: </b>{{post.tech}} 
+  <p><b>Technology used: </b>{{page.tech}} 
   
-  <p><b>My Contribution: </b>{{page.contribution}} {{type}}</p>
-      <img src = "{{ img }}" alt = "{{ imgalt }}" class="img-responsive" style="height: 60%; float: right; margin-right: 10px;" />
+  <p><b>My Contribution: </b>{{page.contribution}} {{page.type}}</p>
+      <img src = "{{ page.img }}" alt = "{{ page.imgalt }}" class="img-responsive" style="height: 60%; float: right; margin-right: 10px;" />
     {{ content }}
   </div>
 
