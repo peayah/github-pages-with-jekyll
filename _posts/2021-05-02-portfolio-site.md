@@ -6,7 +6,9 @@ title: My Portfolio
 tech: Jekyll, MarkDown, HTML
 categories: piece
 contribution: Solo
+git: https://github.com/peayah/resume-portfolio
 
 ---
 
+Reaquainted myself with Markdown.
 
