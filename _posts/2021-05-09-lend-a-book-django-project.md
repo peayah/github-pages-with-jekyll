@@ -4,7 +4,7 @@ title: "Lend a Book"
 published: True
 categories: current
 imgalt: alternative text
-img: ../assets/images/image.jpg
+img: ../assets/images/duck.jpg
 
 ---
 
