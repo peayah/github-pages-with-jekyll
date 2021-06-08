@@ -8,9 +8,7 @@ tech: Python
 img: ../assets/images/maze.jpg
 imgalt: 9 by 9 maze
 img2: ../assets/images/9x9.png
-imgalt2: 9 by 9 maze 2
-img3: ../assets/images/9x9.png
-imgalt3: 9 by 9 maze 3
+imgalt2: 9 by 9 maze
 contribution: Solo
 type: (Class Project)
 
