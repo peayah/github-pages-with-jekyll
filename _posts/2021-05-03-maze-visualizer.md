@@ -9,7 +9,6 @@ imgalt: 9 by 9 maze
 img:
   small:  ../assets/images/maze-small.jpg
   medium: ../assets/images/maze-medium.jpg
-  large:  chickpea-large.jpg
 contribution: Solo
 type: (Class Project)
 
