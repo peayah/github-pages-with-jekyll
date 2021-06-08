@@ -30,12 +30,13 @@ layout: default
          {%- for post in posts -%}
        {% if post.categories contains "piece" %}
          <li>
-           <img src = "{{ post.img-small }}" alt = "{{ post.imgalt }}" class="img-responsive" style="height: 60%; float: right; margin-right: 10px;" />
            <h3>
            <a class="post-link" href="{{ post.url | relative_url }}">
              {{ post.title | escape }}
            </a>
            </h3>
+           <img src = "{{ post.img-small }}" alt = "{{ post.imgalt }}" class="img-responsive" style="height: 60%; float: right; margin-right: 10px;" />
+
             <p><b>Technology used: </b>{{post.tech}} </p>  
   
             <p><b>My Contribution: </b>{{post.contribution}} {{post.type}}</p>
