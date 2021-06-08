@@ -5,7 +5,7 @@ date: 2021-05-03
 title: Maze Solution Visualizer
 categories: piece
 tech: Python
-img: ../assets/images/9x9.png
+img: ../assets/images/maze.jpg
 imgalt: 9 by 9 maze
 img2: ../assets/images/9x9.png
 imgalt2: 9 by 9 maze 2
