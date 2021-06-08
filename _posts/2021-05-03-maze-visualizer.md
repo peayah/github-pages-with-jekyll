@@ -16,7 +16,7 @@ type: (Class Project)
 
 ---
 
-The exercise was to come up with a function that travels through a maze built from lists and add edges to the coordinates. It would then be fed into a Dijkstra function what found the shortest path. Then I needed to get the coordinates from the shortest path so I could print the shortest path in the maze but also print the solution, a list of coordinates. 
+The exercise was to come up with a function that travels through a maze built from lists and add edges to the coordinates. <br/>It would then be fed into a Dijkstra function what found the shortest path. Then I needed to get the coordinates from the shortest path so I could print the shortest path in the maze but also print the solution, a list of coordinates. 
 
 The exercise was to come up with a function that travels through a maze built from lists and add edges to the coordinates. It would then be fed into a Dijkstra function what found the shortest path. Then I needed to get the coordinates from the shortest path so I could print the shortest path in the maze but also print the solution, a list of coordinates. 
 
