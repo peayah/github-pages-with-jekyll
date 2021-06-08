@@ -18,7 +18,11 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    
     {{ content }}
+    
+  <img src = "{{ post.img }}" alt = "{{ post.imgalt }}" class="img-responsive" style="width: 100%; float: right; margin-right: 10px;" />
+
   </div>
 
   {%- if site.disqus.shortname -%}
