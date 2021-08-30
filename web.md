@@ -1,6 +1,6 @@
 ---
 layout: web_portfolio
-title: Web Projects
+title: Web
 permalink: /web_projects/
 ---
 
