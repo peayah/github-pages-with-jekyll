@@ -1,20 +1,20 @@
-.header {
+.hew {
   width: 100%;
   background-color: red;
   color: blue;
-  font-size: 24px
+  font-size: 24px;
 }
 
-.content {
+.con {
    width: 100%;
   background-color: green;
   color: black;
-  font-size: 45px
+  font-size: 45px;
 }
 
-.footer {
-   width: 100%;
+.foo {
+  width: 100%;
   background-color: orange;
   color: gray;
-  font-size: 14px
+  font-size: 14px;
 }
