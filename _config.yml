@@ -15,13 +15,16 @@ baseurl: /
 # collections
 collections:
   output: true
-  portfolio-pieces:   
-  order:
-    - maze-finder.md
-    - wordpress-sites.md
-    - portfolio-site.md 
-  # observations:
-    # sort_by: date
+  
+  web_portfolio:
+    output: true
+    
+  web_projects:
+    output: true
+    
+  web_posts:
+    output: true
+
   code-samles:
     output: true
     permalink: /code-samples/:path/
