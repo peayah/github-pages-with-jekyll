@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: Python Projects
+title: Python
 permalink: /python_projects/
 ---
 
