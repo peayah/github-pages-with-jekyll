@@ -2,7 +2,7 @@
 layout: post
 title: "Lend a Book"
 published: True
-categories: current
+categories: currenty
 imgalt: alternative text
 img: ../assets/images/duck.jpg
 
