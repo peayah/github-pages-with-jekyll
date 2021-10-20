@@ -1,6 +1,6 @@
 ---
 
-title: Data Project
+title: Data
 permalink: /data_projects/
 layout: blog
 ---
