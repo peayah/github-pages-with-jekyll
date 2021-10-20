@@ -17,3 +17,46 @@ working out the algorithm and the order in which the different calculstions shou
 
 #### What I learned
 Although the example was just an array of integers and a target number, I realized the many uses for subset sum set up.
+
+
+    def main():
+
+    # Integer specific
+    # target = 200
+    target = 147
+    # target = 19
+    data_set = [20, 12, 22, 15, 25, 19, 29, 18, 11, 13, 17]
+
+    choices = []
+    empty_sublist = Sublist(data_set)
+    choices.append(empty_sublist)
+
+    # Loop over data_set
+    for number in data_set:
+
+        # Take snapshot of choices
+        choice_snapshot = list(choices)
+
+        # Loop over choice_snapshot
+        for obj in choice_snapshot:
+
+            # Run add_item with index of current numbers index
+            returned_list_obj = obj.add_item(data_set.index(number))
+
+            # Print if sum == target
+            if returned_list_obj.sum == target:
+
+                print(returned_list_obj)
+                quit()
+
+            # If new sum is smaller than target
+            if returned_list_obj.sum < target:
+
+                # Add returned list to choices
+                choices.append(returned_list_obj)
+
+        # If no combination equals result, print max
+        if data_set.index(number) == data_set.index(data_set[-1]):
+            max_obj = max(choices, key=attrgetter('sum'))
+            print(max_obj)
+            quit()
