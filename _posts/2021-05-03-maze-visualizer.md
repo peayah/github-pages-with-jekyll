@@ -8,7 +8,6 @@ tech: Python
 imgalt: 9 by 9 maze
 img-small:  ../assets/images/maze-small.jpg
 img-medium: ../assets/images/maze-medium.jpg
-git: https://github.com/peayah/sample
 contribution: Solo
 type: (Class Project)
 
