@@ -1,6 +1,6 @@
-I’m a full-stack python developer with industry experience in building websites and working with data in various ways.I also have classes in Database Management and Data Visualization.
+I’m a full-stack python developer with industry experience in building websites and working with data in various ways. I also have taken classes in Database Management and Data Visualization.
 
-When I don't code, I have lately been organizing online speaker events and social events in Mensa (non-profit).
+Looking to my coding expertise and problem solving skills in sustainability.
 
 Constantly Learning — Consistently Problem Solving — Constructively Coding
 
@@ -12,7 +12,7 @@ Constantly Learning — Consistently Problem Solving — Constructively Coding
 
 ## Education
 [//]: # (2022 - BA in Computer Science - Foothill College, CA (August).)  
-2021 - Certificate of Achievement in Data Analytics - Foothill College, CA (December).  
+2021 - Certificate of Achievement in Data Analytics - Foothill College, CA (March 2022).  
 2021 - Certificate of Achievement in Advanced Software Development - Foothill College, CA (June). 
 
 2018 - Udacity Mobile Web Specialist Courses
