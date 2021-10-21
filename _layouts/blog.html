@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }} Projects</h1>
+    <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
@@ -28,7 +28,7 @@ layout: default
       
        
          {%- for post in posts -%}
-       {% if post.categories contains "data" %}
+       {% if post.categories contains "observation" %}
          <li>
            <h3>
            <a class="post-link" href="{{ post.url | relative_url }}">
