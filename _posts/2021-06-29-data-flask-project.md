@@ -1,5 +1,5 @@
 ---
-layout: piece
+layout: portfolio-piece
 title: "IN PROGRESS || Exploratory data analysis in Python"
 published: True
 categories: data
