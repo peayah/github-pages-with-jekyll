@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: piece
 title: "IN PROGRESS || Exploratory data analysis in Python"
 published: True
 categories: data
