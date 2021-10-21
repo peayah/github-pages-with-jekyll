@@ -2,6 +2,6 @@
 
 title: Data
 permalink: /data_projects/
-layout: blog
+layout: data_portfolio
 ---
 
