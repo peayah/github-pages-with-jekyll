@@ -1,20 +1,7 @@
-.hew {
-  width: 100%;
-  background-color: red;
-  color: blue;
-  font-size: 24px;
+* {
+    box-sizing: border-box;
 }
 
-.con {
-   width: 100%;
-  background-color: green;
-  color: black;
-  font-size: 45px;
-}
-
-.foo {
-  width: 100%;
-  background-color: orange;
-  color: gray;
-  font-size: 14px;
+.post-content img{
+  float:right;
 }
