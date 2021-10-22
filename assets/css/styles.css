@@ -5,3 +5,7 @@
 .post-content img{
   float:right;
 }
+
+img {
+    vertical-align: right;
+}
