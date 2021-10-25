@@ -9,6 +9,7 @@ git: https://github.com/peayah/resposive-page.git
 imgalt: shot of responsive page
 img-small: ../assets/images/responsive-small.png
 img-medium: ../assets/images/responsive-medium.png
+img-one: ../assets/images/coffeshop-one.jpg
 contribution: Solo
 type: 
 published: True
