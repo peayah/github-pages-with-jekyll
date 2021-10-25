@@ -16,25 +16,11 @@ published: True
 ---
 text
 
-#### What was challenging
-Cat ipsum dolor sit amet, a nice warm laptop for me to sit on or meeeeouw. Making bread on the bathrobe going to catch the red dot today going to catch the red dot today or hit you unexpectedly
-![lot](../../../../assets/images/responsive.png) 
-
-![what](../../../../assets/images/duck.jpg) 
-
-![not](../../../../assets/images/maze.jpg)
+#### What was challenging ![lot](../../../../assets/images/responsive.png) 
+Cat ipsum dolor sit amet, a nice warm laptop for me to sit on or meeeeouw. Making bread on the bathrobe going to catch the red dot today going to catch the red dot today or hit you unexpectedly 
 
 
-![lot](../../../../assets/images/responsive.png) 
-
-x
-
-![what](../../../../assets/images/duck.jpg) 
-
-x
-
-![not](../../../../assets/images/maze.jpg)
 
 
-#### What I learned
+#### What I learned ![not](../../../../assets/images/maze.jpg)
 Cat ipsum dolor sit amet, a nice warm laptop for me to sit on or meeeeouw. Making bread on the bathrobe going to catch the red dot today going to catch the red dot today or hit you unexpectedly
