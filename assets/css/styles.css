@@ -2,13 +2,8 @@
     box-sizing: border-box;
 }
 
-img {
-    vertical-align: right;
-    float:right;
-}
-
 img.position-top {
-    position: relative;
+    position: absolute;
     top: 0px;
     right: 0px;
 }
