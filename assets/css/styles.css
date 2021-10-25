@@ -3,19 +3,24 @@
 }
 
 img.position-top {
-    position: absolute;
+    position: relative;
+    width: 100px;
     top: 100px;
     right: 0px;
 }
 
 img.position-middle {
-    position: absolute;
+        width: 100px;
+
+    position: relative;
     top: calc((100%/2)+1px);
     right: 0px;
 }
 
 img.position-bottom {
-    position: absolute;
+        width: 100px;
+
+    position: relative;
     bottom: 0px;
     right: 0px;
 }
