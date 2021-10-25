@@ -17,18 +17,19 @@ published: True
 text
 
 #### What was challenging
-Cat ipsum dolor sit amet, a nice warm laptop for me to sit on or meeeeouw. Making bread on the bathrobe going to catch the red dot today going to catch the red dot today or hit you unexpectedly![](../../../../assets/images/responsive.png) 
+Cat ipsum dolor sit amet, a nice warm laptop for me to sit on or meeeeouw. Making bread on the bathrobe going to catch the red dot today going to catch the red dot today or hit you unexpectedly![lot](../../../../assets/images/responsive.png) 
 
 
 x
 
 
-[](../../../../assets/images/responsive-small.png) 
+[what](../../../../assets/images/responsive-small.png) 
+
 
 xx
 
 
-[](../../../../assets/images/responsive.png)
+[not](../../../../assets/images/eatery-small.png)
 
 #### What I learned
 Cat ipsum dolor sit amet, a nice warm laptop for me to sit on or meeeeouw. Making bread on the bathrobe going to catch the red dot today going to catch the red dot today or hit you unexpectedly
