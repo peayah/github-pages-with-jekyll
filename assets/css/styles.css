@@ -22,5 +22,5 @@ img {
 .position-bottom {
     position: absolute;
     bottom: 0px;
-    vertical-align: right;
+    right: 0;
 }
