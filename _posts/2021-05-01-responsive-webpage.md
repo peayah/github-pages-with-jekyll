@@ -6,7 +6,6 @@ title: Responsive Webpage
 tech: HTML
 categories: web
 git: https://github.com/peayah/resposive-page.git
-imgc: ../assets/images/responsive.png
 imgalt: shot of responsive page
 img-small: ../assets/images/responsive-small.png
 contribution: Solo
