@@ -7,20 +7,20 @@ img {
     float:right;
 }
 
-.post-content .position-top img {
-    position: absolute;
+img.position-top {
+    position: relative;
     top: 0px;
     right: 0px;
 }
 
-.post .post-content .position-middle img {
+img.position-middle {
     position: absolute;
     top: calc((100%/2)+1px);
     right: 0px;
 }
 
-.wrapper . post .post-content .position-bottom img {
-    position: absolute;
+img.position-bottom {
+    position: relative;
     bottom: 0px;
     right: 0px;
 }
