@@ -11,17 +11,18 @@ img {
     vertical-align: right;
 }
 
-.position-top {
+.position-top img {
     position: absolute;
     top: 0px;
-    left: 0px;
+    right: 0px;
 }
 
-.position-middle {
-    object-position: right middle;
-}
+.position-middle img{
+position: absolute;
+    top: calc((100%/2)+1px);
+    right: 0px;}
 
-.position-bottom {
+.position-bottom img{
     position: absolute;
     bottom: 0px;
     right: 0px;
