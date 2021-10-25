@@ -17,7 +17,7 @@ published: True
 ---
 text
 
-#### What was challenging ![a shot of responsive page](../../../../assets/images/responsive.png) 
+#### What was challenging
 Cat ipsum dolor sit amet, a nice warm laptop for me to sit on or meeeeouw. Making bread on the bathrobe going to catch the red dot today going to catch the red dot today or hit you unexpectedly 
 
 
