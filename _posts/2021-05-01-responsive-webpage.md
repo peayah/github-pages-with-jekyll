@@ -22,5 +22,5 @@ Cat ipsum dolor sit amet, a nice warm laptop for me to sit on or meeeeouw. Maki
 
 
 
-#### What I learned ![not](../../../../assets/images/maze.jpg)
+#### What I learned
 Cat ipsum dolor sit amet, a nice warm laptop for me to sit on or meeeeouw. Making bread on the bathrobe going to catch the red dot today going to catch the red dot today or hit you unexpectedly
