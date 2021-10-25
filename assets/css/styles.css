@@ -2,13 +2,9 @@
     box-sizing: border-box;
 }
 
-.post-content img{
-  float:right;
-  display: block;
-}
-
 img {
     vertical-align: right;
+    float:right;
 }
 
 .position-top img {
@@ -17,12 +13,13 @@ img {
     right: 0px;
 }
 
-.position-middle img{
-position: absolute;
+.position-middle img {
+    position: absolute;
     top: calc((100%/2)+1px);
-    right: 0px;}
+    right: 0px;
+}
 
-.position-bottom img{
+.position-bottom img {
     position: absolute;
     bottom: 0px;
     right: 0px;
