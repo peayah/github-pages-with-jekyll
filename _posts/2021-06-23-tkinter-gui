@@ -5,6 +5,7 @@ date: 2021-05-03
 title: tkinter interface showing neural network
 categories: data
 tech: Python
+git: https://github.com/peayah/resume-portfolio/blob/main/_posts/2021-06-23-tkinter-gui
 imgalt: tkinter dashboard
 img-small:  ../assets/images/GUI-how_networks_work-small.png
 contribution: Solo
