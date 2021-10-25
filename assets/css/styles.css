@@ -4,6 +4,7 @@
 
 .post-content img{
   float:right;
+  display: block;
 }
 
 img {
