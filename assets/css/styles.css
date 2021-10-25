@@ -10,3 +10,15 @@
 img {
     vertical-align: right;
 }
+
+.position-top {
+    object-position: right top;
+}
+
+.position-middle {
+    object-position: right middle;
+}
+
+.position-bottom {
+    object-position: right bottom;
+}
