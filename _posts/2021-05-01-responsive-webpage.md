@@ -8,7 +8,7 @@ categories: web
 git: https://github.com/peayah/resposive-page.git
 imgalt: shot of responsive page
 img-small: ../assets/images/responsive-small.png
-img: ../assets/images/responsive-small.png
+img-medium: ../assets/images/responsive-medium.png
 contribution: Solo
 type: 
 published: True
