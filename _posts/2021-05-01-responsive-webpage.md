@@ -7,9 +7,9 @@ tech: HTML
 categories: web
 git: https://github.com/peayah/resposive-page.git
 imgalt: shot of responsive page
-img-small: ../assets/images/responsive-small.png
-img-medium: ../assets/images/responsive-medium.png
 img-one: ../assets/images/coffeshop-one.jpg
+img-two: ../assets/images/converter-two.jpg
+img-three: ../assets/images/duck-three.jpeg
 contribution: Solo
 type: 
 published: True
