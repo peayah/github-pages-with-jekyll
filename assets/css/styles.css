@@ -20,5 +20,7 @@ img {
 }
 
 .position-bottom {
-    object-position: right bottom;
+    position: absolute;
+    bottom: 0px;
+    vertical-align: right;
 }
