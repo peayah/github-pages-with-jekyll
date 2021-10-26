@@ -6,6 +6,7 @@ tech: HTML, Gatsby
 categories: web
 git: https://github.com/peayah/origin-eatery
 img-front: ../assets/images/eatery-thumb.jpg
+img-inside: ../assets/images/eatery.jpg
 imgalt: screenshot of website
 contribution: Solo
 published: True
