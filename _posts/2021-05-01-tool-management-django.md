@@ -4,7 +4,7 @@ title: "IN PROGRESS HOA Tool and Machinery Exchange"
 published: True
 categories: web
 tech: django
-date: 2021-05-10
+date: 2021-05-01
 git: comming soon ...
 img-inside: ../assets/images/test.jpg
 img-front: ../assets/images/test-thumb.jpg
