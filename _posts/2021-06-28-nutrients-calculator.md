@@ -3,7 +3,7 @@ layout: portfolio-piece
 title: "IN PROGRESS || Nutrient calculator
 published: True
 categories: data
-tech: python, flask, pyGUI
+tech: python, flask
 git: comming soon ...
 img-inside: ../assets/images/test.jpg
 img-front: ../assets/images/test-thumb.jpg
