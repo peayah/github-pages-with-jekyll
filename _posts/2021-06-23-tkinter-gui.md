@@ -5,7 +5,8 @@ date: 2021-05-03
 title: tkinter interface showing neural network
 categories: data
 tech: Python
-img-front: ../assets/images/GUI-how_networks_work-thumb.jpg
+img-front: ../assets/images/GUI-thumb.jpg
+img-inside: ../assets/images/GUI.jpg
 imgalt: tkinter dashboard
 contribution: Solo
 type: (Class Project and Tutorial)
