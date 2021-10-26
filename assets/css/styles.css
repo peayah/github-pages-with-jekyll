@@ -4,12 +4,12 @@
 
 .img-responsive {
     position: relative;
-    width: 100px;
+    width: 200px;
     float: right;
 }
 
 .img-front {
-    float: right; 
+    float: left; 
     margin-right: 10px;
-    width: 100px;
+    width: 150px;
 }
