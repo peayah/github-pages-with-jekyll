@@ -9,12 +9,10 @@ git: https://github.com/peayah/resposive-page.git
 img-inside: ../assets/images/duck.jpg
 img-front: ../assets/images/coffeeshop-one.jpg
 imgalt: shot of responsive page
-
 contribution: Solo
-type: 
 published: True
-
 ---
+
 Cat ipsum dolor sit amet, a nice warm laptop for me to sit on or meeeeouw. Making bread on the bathrobe going to catch the red dot today going to catch the red dot today or hit you unexpectedly  Cat ipsum dolor sit amet, a nice warm laptop for me to sit on or meeeeouw. Making bread on the bathrobe going to catch the red dot today going to catch the red dot today or hit you unexpectedly 
 
 
