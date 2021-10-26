@@ -1,6 +1,6 @@
 ---
 layout: portfolio-piece
-title: "IN PROGRESS || Nutrient calculator
+title: "IN PROGRESS || Nutrient calculator"
 published: True
 categories: data
 tech: python, flask
