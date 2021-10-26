@@ -5,6 +5,7 @@ published: True
 categories: data
 tech: python, flask
 git: comming soon ...
+date: 2021-06-02
 img-inside: ../assets/images/test.jpg
 img-front: ../assets/images/test-thumb.jpg
 imgalt: Nutients calculator
