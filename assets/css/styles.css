@@ -5,12 +5,18 @@
 .img-responsive {
     position: relative;
     width: 200px;
-    float: right;
 }
 
 .img-front {
     position: relative;
-    float: left; 
     margin-right: 10px;
     width: 150px;
+}
+
+.left {
+    float: left;
+}
+
+.right{
+    float: right;
 }
