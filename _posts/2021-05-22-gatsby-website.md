@@ -5,7 +5,6 @@ title: "Gatsby Website"
 tech: HTML, Gatsby
 categories: web
 git: https://github.com/peayah/origin-eatery
-img-inside: ../assets/images/eatery.jpg
 img-front: ../assets/images/eatery-thumb.jpg
 imgalt: screenshot of website
 contribution: Solo
