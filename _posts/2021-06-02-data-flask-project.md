@@ -5,7 +5,7 @@ published: True
 categories: data
 tech: python, flask
 git: comming soon ...
-date: 2021-06-02
+date: 2021-06-03
 img-inside: ../assets/images/test.jpg
 img-front: ../assets/images/test-thumb.jpg
 imgalt: Exploratory data analysis view
