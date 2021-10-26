@@ -1,7 +1,7 @@
 ---
 
 layout: portfolio-piece
-date: 2021-05-03
+date: 2021-06-23
 title: tkinter interface showing neural network
 categories: data
 tech: Python
