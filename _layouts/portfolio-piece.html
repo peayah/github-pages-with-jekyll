@@ -21,10 +21,13 @@ layout: default
     <p><b>Technology used: </b>{{page.tech}} </p>
     <p><b>My Contribution: </b>{{page.contribution}} {{page.type}}</p>
     {%- if page.git -%}
-    <p><b>GitHub Link: </b> <a href="{{page.git}}">{{page.git}} </a> </p>
-        <img src = "../../../{{ page.img-inside }}" alt = "{{ page.imgalt }}" class="img-responsive"  />
-
+      <p><b>GitHub Link: </b> <a href="{{page.git}}">{{page.git}} </a> </p>
     {%- endif -%}
+    
+    {%- if page.img-%}
+      <img src = "../../../{{ page.img-inside }}" alt = "{{ page.imgalt }}" class="img-responsive"  />
+    {%- endif -%}
+   
     {{ content }}
     
   </div>
