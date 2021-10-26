@@ -7,7 +7,7 @@ categories: data
 tech: Python
 git: https://github.com/peayah/resume-portfolio/blob/main/_posts/2021-06-23-tkinter-gui
 imgalt: tkinter dashboard
-img-small:  ../assets/images/GUI-how_networks_work-small.jpg
+img-front:  ../assets/images/GUI-how_networks_work-small.jpg
 contribution: Solo
 type: (Class Project and Tutorial)
 published: True
