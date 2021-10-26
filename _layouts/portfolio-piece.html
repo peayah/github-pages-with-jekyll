@@ -20,11 +20,12 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     <p><b>Technology used: </b>{{page.tech}} </p>
     <p><b>My Contribution: </b>{{page.contribution}} {{page.type}}</p>
+    
     {%- if page.git -%}
       <p><b>GitHub Link: </b> <a href="{{page.git}}">{{page.git}} </a> </p>
     {%- endif -%}
     
-    {%- if page.img-%}
+    {%- if page.img-inside -%}
       <img src = "../../../{{ page.img-inside }}" alt = "{{ page.imgalt }}" class="img-responsive"  />
     {%- endif -%}
    
