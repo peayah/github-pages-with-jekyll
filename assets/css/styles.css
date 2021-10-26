@@ -2,21 +2,8 @@
     box-sizing: border-box;
 }
 
-img.position-top {
+.img-responsive {
     position: relative;
     width: 100px;
     float: right;
 }
-
-img.position-middle {
-    width: 100px;
-    position: relative;
-    top:150px;
-    float:right;
-}
-
-img.position-bottom {
-    width: 100px;
-    position: relative;
-    float: right;
-    top: 300px;
