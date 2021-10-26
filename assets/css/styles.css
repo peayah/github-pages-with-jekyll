@@ -7,3 +7,9 @@
     width: 100px;
     float: right;
 }
+
+.img-front {
+    float: right; 
+    margin-right: 10px;
+    width: 100px;
+}
