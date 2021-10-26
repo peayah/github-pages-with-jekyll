@@ -6,6 +6,7 @@ title: J(A)Mstack Portfolio
 tech: Jekyll, MarkDown, HTML
 categories: web
 contribution: Solo
+img-front: ../assets/images/resume-thumb.jpg
 git: https://github.com/peayah/resume-portfolio
 
 ---
