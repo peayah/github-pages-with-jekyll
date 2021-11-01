@@ -2,7 +2,7 @@
 
 layout: portfolio-piece
 date: 2021-06-23
-title: tkinter interface showing neural network
+title: tkinter Interface Showing Neural Network
 categories: data
 tech: Python
 img-front: ../assets/images/GUI-thumb.jpg
