@@ -5,7 +5,7 @@ published: True
 categories: web
 tech: Django, HTML, CSS
 date: 2021-05-11
-git: comming soon ...
+git: https://github.com/peayah/HOAtoolsharing
 img-inside: ../assets/images/django-hoa.jpg
 img-front: ../assets/images/django-hoa1.png
 imgalt: HOA Tool Sharing Dashboard
