@@ -3,7 +3,7 @@ layout: portfolio-piece
 title: "Django Website"
 published: True
 categories: web
-tech: django, HTML, CSS
+tech: Django, HTML, CSS
 date: 2021-05-11
 git: comming soon ...
 img-inside: ../assets/images/django-hoa1.jpg
