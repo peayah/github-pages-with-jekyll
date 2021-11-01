@@ -6,7 +6,7 @@ categories: web
 tech: django, HTML, CSS
 date: 2021-05-11
 git: comming soon ...
-img-inside: ../assets/images/django-hoa.jpg
+img-inside: ../assets/images/django-hoa1.jpg
 img-front: ../assets/images/django-hoa-thumb.jpg
 imgalt: HOA Tool Sharing Dashboard
 contribution: solo
