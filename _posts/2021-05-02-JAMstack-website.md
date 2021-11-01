@@ -2,7 +2,7 @@
 
 layout: portfolio-piece
 date: 2021-05-02
-title: J(A)Mstack Portfolio
+title: J(A)Mstack Website - Portfolio
 tech: Jekyll, MarkDown, HTML
 categories: web
 contribution: Solo
