@@ -2,17 +2,18 @@
 
 layout: portfolio-piece
 date: 2021-05-02
-title: J(A)Mstack Website - Portfolio
-tech: Jekyll, MarkDown, HTML
-categories: web
+title: Diet and Nutrition Counter App 
+tech: Python, Django, CSS/Bootstrap, HTML
+categories: python
 contribution: Solo
-img-front: ../assets/images/resume-thumb.jpg
-git: https://github.com/peayah/resume-portfolio
+img-front: ../assets/images/eatright-thumb.jpg
+git: https://github.com/peayah/eatrightapp
 
 ---
 
-Since the portfolio is static content showing my work, I decided to use J and the M in JAMstack. I enjoy the simplicity of Markup and the JAMstack in general as well as its flexibility.
+With many diets, it feels like you don't eat enough, don't get enough of a variety to cover your daily needed nutients intake. This app keeps tab on how much you've consumed in a day as well as totalling essetial nutrients. 
+
+The app gives you the ability to add new foods, delete a food if you decided to put that cupcake back :), lists monthly as well as daily consumption plus gives the user the ability to change daily food and nutients targets.
 
 #### What was challenging
-Making the a post display on the correct pages. Understanding the how the MarkDown and the HTML mix.
-
+Getting the consumption forms to work adding up the nutrients adding the values vs counting the numbers. Adding multiple forms to one page, so that only submitted information from the relevant form is submitted and nothing is submitted twice.
