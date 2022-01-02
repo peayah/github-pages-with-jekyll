@@ -7,7 +7,7 @@ tech: Django, HTML, CSS
 date: 2021-05-11
 git: https://github.com/peayah/HOAtoolsharing
 img-inside: ../assets/images/django-hoa.jpg
-img-front: ../assets/images/django-hoa1.png
+img-front: ../assets/images/django-hoa-thumb.jpg
 imgalt: HOA Tool Sharing Dashboard
 contribution: solo
 
