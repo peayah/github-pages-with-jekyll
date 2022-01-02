@@ -12,11 +12,4 @@ contribution: Solo
 published: True
 ---
 
-static content-oriented website.
-
-
-#### What was challenging
-Cat ipsum dolor sit amet, a nice warm laptop for me to sit on or meeeeouw. Making bread on the bathrobe going to catch the red dot today going to catch the red dot today or hit you unexpectedly 
-
-#### What I learned
-Cat ipsum dolor sit amet, a nice warm laptop for me to sit on or meeeeouw. Making bread on the bathrobe going to catch the red dot today going to catch the red dot today or hit you unexpectedly
+Working with Gatsby enables me to look at content as data as well as working with static pages. The best of both worlds.
