@@ -1,7 +1,7 @@
 ---
 layout: portfolio-piece
 title: "IN PROGRESS || Exploratory data analysis in Python"
-published: True
+published: False
 categories: data
 tech: python, flask
 git: comming soon ...
