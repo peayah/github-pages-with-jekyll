@@ -3,7 +3,7 @@
 layout: portfolio-piece
 date: 2021-05-21
 title: Responsive Webpage
-tech: HTML
+tech: HTML, css
 categories: web
 git: https://github.com/peayah/resposive-page.git
 img-inside: ../assets/images/responsive.jpg
