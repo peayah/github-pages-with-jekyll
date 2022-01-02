@@ -17,3 +17,28 @@ The app gives you the ability to add new foods, delete a food if you decided to 
 
 #### What was challenging
 Getting the consumption forms to work adding up the nutrients adding the values vs counting the numbers. Adding multiple forms to one page, so that only submitted information from the relevant form is submitted and nothing is submitted twice.
+
+
+    sum_of_potassium = FoodInstance.objects.filter(consumed__lte=today_end, 
+    consumed__gte=today_start).aggregate(Sum('food__potassium')).get('food__potassium__sum', 0.00)
+
+    num_bread = FoodInstance.objects.filter(food__kind__exact='b').filter(consumed__lte=today_end, 
+    consumed__gte=today_start).count()
+    ...
+    
+    # Maximum intake intances
+    intake_instances = DailyIntake.objects.all()
+
+    # Forms
+    bread_form = ConsumeBreadForm(request.POST or None)
+   
+    ...
+   
+    if request.method == 'POST':
+
+       elif 'consume_bread' in request.POST:
+            if bread_form.is_valid():
+                bf=bread_form.save(commit=False)
+                bf.save()
+                return redirect('index')
+
