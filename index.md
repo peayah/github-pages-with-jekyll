@@ -8,7 +8,7 @@ Constantly Learning — Consistently Problem Solving — Constructively Coding
 **Code**: Python.  
 **Data**: SQL, Tableau, Excel.  
 **Web**: HTML, CSS, JavaScript.  
-**JAM**: Gatsby, Jekyll, Hugo, JSON, REST.  
+**JAM**: Gatsby, Jekyll, JSON, REST.  
 
 ## Education
 [//]: # (2022 - BA in Computer Science - Foothill College, CA (August).)  
