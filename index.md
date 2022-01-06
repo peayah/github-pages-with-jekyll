@@ -13,23 +13,23 @@ Constantly Learning — Consistently Problem Solving — Constructively Coding
 ## Education
 [//]: # (2022 - BA in Computer Science - Foothill College, CA (August).)  
 2022 - **Certificate of Achievement in Data Analytics** - Foothill College, CA (August 2022).
-- Introduction to Data Analytics and Business Decisions
-- Introduction to Database Management Systems
-- Data Visualizations
-- Elementary Statistics
+- Introduction to Data Analytics and Business Decisions.
+- Introduction to Database Management Systems.
+- Data Visualizations.
+- Elementary Statistics.
 
 2022 - **Certificate of Achievement in Advanced Software Development in Python** - Foothill College, CA (June). 
-- Object-oriented Programming Methodologies
-- Software Design
-- Data Structures and Algorithms
-- Introduction to Database Management Systems
-- Elementary Statistics
+- Object-oriented Programming Methodologies.
+- Software Design.
+- Data Structures and Algorithms.
+- Introduction to Database Management Systems.
+- Elementary Statistics.
 
 2018 - Udacity **Mobile Web Specialist** Courses. 
 
 BA in **International Business Communication** - Niels Brock, DK.  
-- Graphic Design, 
-- Technical Writing 
+- Graphic Design.
+- Technical Writing.
 - Video Production. 
 
 ## Portfolio Projects
