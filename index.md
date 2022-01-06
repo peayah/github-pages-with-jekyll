@@ -18,10 +18,10 @@ Constantly Learning — Consistently Problem Solving — Constructively Coding
 - Data Visualizations
 - Elementary Statistics
 
-2022 - **Certificate of Achievement in Advanced Software Development** - Foothill College, CA (June). 
+2022 - **Certificate of Achievement in Advanced Software Development in Python** - Foothill College, CA (June). 
 - Object-oriented Programming Methodologies
-- Software Design and 
-- Data Structures and Algorithms in Python.
+- Software Design
+- Data Structures and Algorithms
 - Introduction to Database Management Systems
 - Elementary Statistics
 
