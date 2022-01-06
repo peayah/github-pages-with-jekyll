@@ -24,6 +24,9 @@ Constantly Learning — Consistently Problem Solving — Constructively Coding
 - Introduction to Database Management Systems.
 - Elementary Statistics.
 
+2022 - **Developing Application For IOS Class** - Foothill College, CA (March)
+An introduction to programming the iPhone, iPad or iPad Touch. Covers Swift, and the Model/View/Controller architecture. Students will develop useful applications that include common user interface elements, common programming constructs and data structures.
+
 2018 - **Mobile Web Specialist** - Udacity Courses. 
 
 BA in **International Business Communication** - Niels Brock, DK.  
