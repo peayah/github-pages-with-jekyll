@@ -5,10 +5,9 @@ Looking to use my coding expertise and problem solving skills in sustainability.
 Constantly Learning — Consistently Problem Solving — Constructively Coding
 
 ## Skills
-**Code**: Python.  
-**Data**: SQL, Tableau, Excel.  
-**Web**: HTML, CSS, JavaScript.  
-**JAM**: Gatsby, Jekyll, JSON, REST.  
+**Code**: Python.
+**Data**: SQL, Tableau, Excel, JSON.  
+**Web**: HTML, CSS, JavaScript, Gatsby, Jekyll, Django, Flask. 
 
 ## Education
 [//]: # (2022 - BA in Computer Science - Foothill College, CA (August).)  
