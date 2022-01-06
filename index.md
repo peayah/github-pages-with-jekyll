@@ -1,6 +1,6 @@
-I’m a full-stack python developer with industry experience in building websites and working with data in various ways. I also have taken classes in Database Management and Data Visualization.
+pI’m a full-stack python developer with industry experience in building websites and working with data in various ways. I also have experience in Database Management and Data Visualization.
 
-Looking to my coding expertise and problem solving skills in sustainability.
+Looking to use my coding expertise and problem solving skills in sustainability.
 
 Constantly Learning — Consistently Problem Solving — Constructively Coding
 
@@ -12,15 +12,25 @@ Constantly Learning — Consistently Problem Solving — Constructively Coding
 
 ## Education
 [//]: # (2022 - BA in Computer Science - Foothill College, CA (August).)  
-[//]: # (2021 - Certificate of Achievement in Data Analytics - Foothill College, CA (March 2022).  )
-[//]: # (2021 - Certificate of Achievement in Advanced Software Development - Foothill College, CA (June). )
+2022 - Certificate of Achievement in Data Analytics - Foothill College, CA (August 2022).
+- Introduction to Data Analytics and Business Decisions
+- Introduction to Database Management Systems
+- Data Visualizations
+- Elementary Statistics
 
-2018 - Udacity Mobile Web Specialist Courses
-       **Technologies and concepts used**: accessibility, service worker, cache storage, indexeddb, JSON, developer tools*
+2022 - Certificate of Achievement in Advanced Software Development - Foothill College, CA (June). 
+- Object-oriented Programming Methodologies
+- Software Design and 
+- Data Structures and Algorithms in Python.
+- Introduction to Database Management Systems
+- Elementary Statistics
 
+2018 - Udacity Mobile Web Specialist Courses. 
 
 BA in International Business Communication - Niels Brock, DK.  
-Certificate in Marketing - Niels Brock, DK.
+- Graphic Design, 
+- Technical Writing 
+- Video Production. 
 
 ## Portfolio Projects
 Code samples and projects at [my GitHub repository](https://github.com/peayah).
