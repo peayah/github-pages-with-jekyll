@@ -5,7 +5,7 @@ Looking to use my coding expertise and problem solving skills in sustainability.
 Constantly Learning — Consistently Problem Solving — Constructively Coding
 
 ## Skills
-**Code**: Python.
+**Code**: Python.  
 **Data**: SQL, Tableau, Excel, JSON.  
 **Web**: HTML, CSS, JavaScript, Gatsby, Jekyll, Django, Flask. 
 
