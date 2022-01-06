@@ -1,4 +1,4 @@
-pI’m a full-stack python developer with industry experience in building websites and working with data in various ways. I also have experience in Database Management and Data Visualization.
+I’m a full-stack python developer with industry experience in building websites and working with data in various ways. I also have experience in Database Management and Data Visualization.
 
 Looking to use my coding expertise and problem solving skills in sustainability.
 
@@ -12,22 +12,22 @@ Constantly Learning — Consistently Problem Solving — Constructively Coding
 
 ## Education
 [//]: # (2022 - BA in Computer Science - Foothill College, CA (August).)  
-2022 - Certificate of Achievement in Data Analytics - Foothill College, CA (August 2022).
+2022 - **Certificate of Achievement in Data Analytics** - Foothill College, CA (August 2022).
 - Introduction to Data Analytics and Business Decisions
 - Introduction to Database Management Systems
 - Data Visualizations
 - Elementary Statistics
 
-2022 - Certificate of Achievement in Advanced Software Development - Foothill College, CA (June). 
+2022 - **Certificate of Achievement in Advanced Software Development** - Foothill College, CA (June). 
 - Object-oriented Programming Methodologies
 - Software Design and 
 - Data Structures and Algorithms in Python.
 - Introduction to Database Management Systems
 - Elementary Statistics
 
-2018 - Udacity Mobile Web Specialist Courses. 
+2018 - Udacity **Mobile Web Specialist** Courses. 
 
-BA in International Business Communication - Niels Brock, DK.  
+BA in **International Business Communication** - Niels Brock, DK.  
 - Graphic Design, 
 - Technical Writing 
 - Video Production. 
@@ -53,3 +53,5 @@ Was part of a dedicated group in the main office. Helped market and and fundrais
 Helping small businesses, non-profits and solo-preneurs make the most of their presence off and online. 
 **Technologies**: HTML, CSS, Bootstrap, JavaScript, Jquery, AngularJS, SQL PHP, CMS, WordPress and databases, Adobe Suite.
 
+## A Paragraph About Me
+I'm always up for a good discussion both to challenge my own beliefs and to learn something new. During the past two years I've set up multiple book discussion (discussing a chapter a week) and arranged monthly speakers on a variety of topics within San Francisco Mensa. Generally, I will also loan my organizing and/or design skills to a non-profit. Currently, I'm in the process of moving a band booster website to WordPress.
