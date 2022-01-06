@@ -25,7 +25,7 @@ Constantly Learning — Consistently Problem Solving — Constructively Coding
 - Introduction to Database Management Systems.
 - Elementary Statistics.
 
-2018 - Udacity **Mobile Web Specialist** Courses. 
+2018 - **Mobile Web Specialist** Udacity Courses. 
 
 BA in **International Business Communication** - Niels Brock, DK.  
 - Graphic Design.
