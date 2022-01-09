@@ -11,7 +11,7 @@ git: https://github.com/peayah/eatrightapp
 
 ---
 
-With many diets, it feels like you don’t eat enough, don’t get enough of a variety to cover your daily needed nutrients intake. This app keeps tab on how much you’ve consumed in a day as well as totalling essential nutrients.
+With many diets, it feels like you don’t eat enough, don’t get enough of a variety to cover your daily needed nutrients intake. This app keeps tabs on how much you’ve consumed in a day as well as totalling essential nutrients.
 
 The app gives you the ability to add new foods, delete a food if you decided to put that cupcake back :), lists monthly as well as daily consumption plus gives the user the ability to change daily food and nutients targets.
 
