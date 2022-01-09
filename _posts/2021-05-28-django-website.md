@@ -4,7 +4,7 @@ title: "Django Website"
 published: True
 categories: web
 tech: Django, HTML, CSS
-date: 2021-05-11
+date: 2021-05-28
 git: https://github.com/peayah/HOAtoolsharing
 img-inside: ../assets/images/django-hoa.jpg
 img-front: ../assets/images/django-hoa-thumb.jpg
