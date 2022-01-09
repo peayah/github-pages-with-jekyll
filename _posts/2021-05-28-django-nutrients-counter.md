@@ -1,7 +1,7 @@
 ---
 
 layout: portfolio-piece
-date: 2021-05-28
+date: 2021-05-29
 title: Diet and Nutrients Counter App 
 tech: Python, Django, CSS/Bootstrap, HTML
 categories: web
