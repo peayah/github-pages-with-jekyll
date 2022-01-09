@@ -5,7 +5,7 @@ Constantly Learning — Consistently Problem Solving — Constructively Coding
 ## Skills
 **Code**: Python.  
 **Data**: SQL, Tableau, Excel, JSON.  
-**Web**: HTML, CSS, JavaScript, Gatsby, Jekyll, Django, Flask. 
+**Web**: CSS, Django, Flask, Gatsby, HTML, JavaScript, Jekyll. 
 
 ## Education
 [//]: # (2022 - BA in Computer Science - Foothill College, CA (August).)  
