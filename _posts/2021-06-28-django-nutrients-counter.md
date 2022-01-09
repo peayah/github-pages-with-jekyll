@@ -1,10 +1,10 @@
 ---
 
 layout: portfolio-piece
-date: 2021-06-28
+date: 2021-05-28
 title: Diet and Nutrients Counter App 
 tech: Python, Django, CSS/Bootstrap, HTML
-categories: data
+categories: web
 contribution: Solo
 img-front: ../assets/images/eatright-thumb.jpg
 git: https://github.com/peayah/eatrightapp
