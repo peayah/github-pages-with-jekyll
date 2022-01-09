@@ -6,6 +6,7 @@ title: Diet and Nutrients Counter App
 tech: Python, Django, CSS/Bootstrap, HTML
 categories: web
 contribution: Solo
+img-inside: ../assets/images/eatright.jpg
 img-front: ../assets/images/eatright-thumb.jpg
 git: https://github.com/peayah/eatrightapp
 
