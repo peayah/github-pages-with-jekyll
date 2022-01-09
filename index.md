@@ -4,7 +4,7 @@ Constantly Learning — Consistently Problem Solving — Constructively Coding
 
 ## Skills
 **Code**: Python.  
-**Data**: Excel, JSON, SQL, Tableau.
+**Data**: Excel, JSON, SQL, Tableau.  
 **Web**: CSS, Django, Flask, Gatsby, HTML, JavaScript, Jekyll. 
 
 ## Education
