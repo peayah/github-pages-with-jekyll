@@ -1,4 +1,4 @@
-I’m a full-stack python developer with industry experience in building websites and working with data in various ways. Looking to use my background, coding and problem solving skills in sustainability. I'd like to part of the solution.
+I’m a full-stack django python developer with industry experience in building websites and working with data in various ways. Looking to use my background, coding and problem solving skills in sustainability. I'd like to part of the solution.
 
 Constantly Learning — Consistently Problem Solving — Constructively Coding
 
