@@ -2,7 +2,7 @@ title: Pia Smith Resume and Portfolio
 author: Pia Smith
 email: theequationofacircle@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Python Developer with Eye for Design  
+  Django Python Developer with Eye for Design  
   and a Love of Databases
 
 # social links
@@ -18,6 +18,7 @@ collections:
   
   web_portfolio:
     output: true
+    permalink: none
     
   web_projects:
     output: true
