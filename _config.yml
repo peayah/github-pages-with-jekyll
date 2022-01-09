@@ -15,6 +15,7 @@ baseurl: /
 # collections
 collections:
   output: true
+  permalink: /:collection/:name
   
   web_portfolio:
     output: true
