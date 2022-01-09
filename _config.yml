@@ -16,7 +16,7 @@ baseurl: /
 collections:
   posts:
     output: true
-    permalink: /:collection/:name
+    permalink: posts/:title
   
   web_portfolio:
     output: true
@@ -30,7 +30,7 @@ collections:
 
   code-samles:
     output: true
-    permalink: /code-samples/:path/
+    permalink: /code-samples/:path/    
     
 # build
 theme: minima
